@@ -77,6 +77,18 @@ jobs:
           (cd build/ipa && zip -qry ../GeoAlarm.ipa Payload)
           ls -lh build/GeoAlarm.ipa
 
+      - name: Inspect IPA contents
+        run: |
+          mkdir -p /tmp/ci
+          APP=build/ipa/Payload/GeoAlarm.app
+          {
+            echo "== ipa size"; ls -lh build/GeoAlarm.ipa
+            echo "== Info.plist"; plutil -p "$APP/Info.plist"
+            echo "== bundle files"; ls -la "$APP"
+            echo "== binary architectures"; lipo -info "$APP/GeoAlarm" || true
+            echo "== codesign"; codesign -dv "$APP" 2>&1 || true
+          } > /tmp/ci/ipa-info.txt
+
       - name: Upload .ipa artifact
         uses: actions/upload-artifact@v4
         with:
