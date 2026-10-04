@@ -34,6 +34,7 @@ targets:
           - UIInterfaceOrientationLandscapeRight
         UIBackgroundModes:
           - location
+          - audio
         ITSAppUsesNonExemptEncryption: false
         NSLocationWhenInUseUsageDescription: "O GeoAlarm usa sua localização para mostrar o mapa e calcular a distância até o ponto do alarme."
         NSLocationAlwaysAndWhenInUseUsageDescription: "O GeoAlarm precisa da localização \"Sempre\" para disparar o alarme quando você entra ou sai da área, mesmo com o app fechado."
