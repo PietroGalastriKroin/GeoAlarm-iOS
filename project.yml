@@ -1,0 +1,68 @@
+name: GeoAlarm
+options:
+  bundleIdPrefix: com.pietrogalastri
+  deploymentTarget:
+    iOS: "17.0"
+  createIntermediateGroups: true
+  generateEmptyDirectories: true
+settings:
+  base:
+    SWIFT_VERSION: "5.0"
+    MARKETING_VERSION: "1.0.0"
+    CURRENT_PROJECT_VERSION: "1"
+    ENABLE_USER_SCRIPT_SANDBOXING: NO
+targets:
+  GeoAlarm:
+    type: application
+    platform: iOS
+    sources:
+      - path: GeoAlarm
+    info:
+      path: GeoAlarm/Info.plist
+      properties:
+        CFBundleDisplayName: GeoAlarm
+        CFBundleShortVersionString: "$(MARKETING_VERSION)"
+        CFBundleVersion: "$(CURRENT_PROJECT_VERSION)"
+        UILaunchScreen: {}
+        UIApplicationSceneManifest:
+          UIApplicationSupportsMultipleScenes: false
+        UISupportedInterfaceOrientations:
+          - UIInterfaceOrientationPortrait
+        UISupportedInterfaceOrientations~ipad:
+          - UIInterfaceOrientationPortrait
+          - UIInterfaceOrientationLandscapeLeft
+          - UIInterfaceOrientationLandscapeRight
+        UIBackgroundModes:
+          - location
+        ITSAppUsesNonExemptEncryption: false
+        NSLocationWhenInUseUsageDescription: "O GeoAlarm usa sua localização para mostrar o mapa e calcular a distância até o ponto do alarme."
+        NSLocationAlwaysAndWhenInUseUsageDescription: "O GeoAlarm precisa da localização \"Sempre\" para disparar o alarme quando você entra ou sai da área, mesmo com o app fechado."
+        NSLocationUsageDescription: "O GeoAlarm usa sua localização para disparar alarmes ao entrar ou sair de uma área."
+        NSAlarmKitUsageDescription: "O GeoAlarm usa alarmes para tocar mesmo com o iPhone no silencioso ou com a tela bloqueada quando você chega ao destino."
+    settings:
+      base:
+        PRODUCT_BUNDLE_IDENTIFIER: com.pietrogalastri.geoalarm
+        TARGETED_DEVICE_FAMILY: "1"
+        ASSETCATALOG_COMPILER_APPICON_NAME: AppIcon
+        ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME: AccentColor
+        CODE_SIGN_STYLE: Automatic
+  GeoAlarmTests:
+    type: bundle.unit-test
+    platform: iOS
+    sources:
+      - path: GeoAlarmTests
+    dependencies:
+      - target: GeoAlarm
+    settings:
+      base:
+        PRODUCT_BUNDLE_IDENTIFIER: com.pietrogalastri.geoalarm.tests
+        GENERATE_INFOPLIST_FILE: YES
+schemes:
+  GeoAlarm:
+    build:
+      targets:
+        GeoAlarm: all
+        GeoAlarmTests: [test]
+    test:
+      targets:
+        - GeoAlarmTests
