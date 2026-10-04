@@ -91,7 +91,13 @@ struct AlarmTriggerView: View {
             .padding(.vertical, 12)
             .foregroundStyle(foreground)
         }
+        // Barra de status legível: ícones claros sobre fundo escuro, escuros sobre fundo claro.
+        .preferredColorScheme(usesLightForeground ? .dark : .light)
         .onAppear { pulse = true }
+    }
+
+    private var usesLightForeground: Bool {
+        hasImage || Palette.prefersLightText(on: UIColor(backgroundColor))
     }
 
     // MARK: Fundo e cores
@@ -105,7 +111,7 @@ struct AlarmTriggerView: View {
     }
 
     private var foreground: Color {
-        hasImage ? .white : Palette.contrastingText(on: UIColor(backgroundColor))
+        usesLightForeground ? .white : .black
     }
 
     @ViewBuilder

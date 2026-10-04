@@ -58,7 +58,7 @@ struct AlarmEditView: View {
         }
         .fullScreenCover(item: $previewing) { alarm in
             AlarmTriggerView(alarm: alarm,
-                             distanceMeters: nil,
+                             distanceMeters: 350,
                              isPreview: true,
                              onDismiss: { previewing = nil },
                              onSnooze: alarm.snoozeType == .none ? nil : { previewing = nil })

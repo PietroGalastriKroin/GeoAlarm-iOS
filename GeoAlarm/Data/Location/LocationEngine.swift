@@ -125,12 +125,16 @@ final class LocationEngine: NSObject, GeofenceMonitoring, LocationProviding {
             region.notifyOnExit = !notifyOnEntry
             manager.startMonitoring(for: region)
         }
-        monitoredAlarmIDs = Set(wanted.map(\.id))
+        let newIDs = Set(wanted.map(\.id))
+        let changed = newIDs != monitoredAlarmIDs
+        monitoredAlarmIDs = newIDs
 
         // Com mais alarmes que regiões, precisamos saber quando o usuário se desloca para
         // trocar o conjunto monitorado.
         updateSignificantChanges(needed: overflowCount > 0 && authorization == .always)
-        EventLog.shared.add("Regiões monitoradas: \(wanted.count) de \(enabledCount) alarmes ligados")
+        if changed {
+            EventLog.shared.add("Regiões monitoradas: \(wanted.count) de \(enabledCount) alarmes ligados")
+        }
     }
 
     private func updateSignificantChanges(needed: Bool) {

@@ -42,11 +42,16 @@ struct Palette: Equatable {
 
     /// Preto ou branco, o que tiver mais contraste (luminância relativa WCAG).
     static func contrastingText(on color: UIColor) -> Color {
+        prefersLightText(on: color) ? Color.white : Color.black
+    }
+
+    /// `true` quando o fundo é escuro o bastante para pedir texto claro.
+    static func prefersLightText(on color: UIColor) -> Bool {
         var r: CGFloat = 0, g: CGFloat = 0, b: CGFloat = 0, a: CGFloat = 0
         color.getRed(&r, green: &g, blue: &b, alpha: &a)
         func lin(_ c: CGFloat) -> CGFloat { c <= 0.03928 ? c / 12.92 : pow((c + 0.055) / 1.055, 2.4) }
         let luminance = 0.2126 * lin(r) + 0.7152 * lin(g) + 0.0722 * lin(b)
-        return luminance > 0.4 ? Color.black : Color.white
+        return luminance <= 0.4
     }
 }
 

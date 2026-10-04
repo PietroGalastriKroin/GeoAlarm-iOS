@@ -49,7 +49,6 @@ final class ScreenshotTests: XCTestCase {
     func testMainTourLight() {
         launch()
         sleep(2)
-        app.tap()   // dispara o monitor de interrupção de permissões, se houver
         sleep(1)
         shot("lista-claro")
 
@@ -92,7 +91,6 @@ final class ScreenshotTests: XCTestCase {
     func testMainTourDark() {
         launch(dark: true)
         sleep(2)
-        app.tap()
         sleep(1)
         shot("lista-escuro")
         if tapIfExists(app.staticTexts["Casa"]) {
