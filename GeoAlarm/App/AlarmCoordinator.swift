@@ -65,6 +65,13 @@ final class AlarmCoordinator {
         }
     }
 
+    /// Teste manual: faz o alarme tocar pelo caminho de segundo plano (AlarmKit/notificações)
+    /// daqui a `delay` segundos, para validar no aparelho sem precisar sair andando.
+    func testDelivery(_ alarm: GeoAlarm, after delay: TimeInterval) async {
+        let outcome = await delivery.deliver(alarm, after: delay)
+        EventLog.shared.add("Teste de alarme em \(Int(delay)) s: \(describe(outcome))")
+    }
+
     // MARK: Tela de alarme
 
     /// Abre a tela de alarme. `playFeedback` liga som e háptica dentro do app.

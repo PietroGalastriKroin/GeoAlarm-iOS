@@ -12,7 +12,7 @@ struct GeoAlarmApp: App {
     var body: some Scene {
         WindowGroup {
             ThemedRoot {
-                Text("GeoAlarm")
+                RootView()
             }
             .environment(container.settingsStore)
             .environment(container.coordinator)
