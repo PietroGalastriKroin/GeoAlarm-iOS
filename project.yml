@@ -58,7 +58,27 @@ targets:
       base:
         PRODUCT_BUNDLE_IDENTIFIER: com.pietrogalastri.geoalarm.tests
         GENERATE_INFOPLIST_FILE: YES
+  GeoAlarmUITests:
+    type: bundle.ui-testing
+    platform: iOS
+    sources:
+      - path: GeoAlarmUITests
+    dependencies:
+      - target: GeoAlarm
+    settings:
+      base:
+        PRODUCT_BUNDLE_IDENTIFIER: com.pietrogalastri.geoalarm.uitests
+        GENERATE_INFOPLIST_FILE: YES
+        TEST_TARGET_NAME: GeoAlarm
 schemes:
+  GeoAlarmUI:
+    build:
+      targets:
+        GeoAlarm: all
+        GeoAlarmUITests: [test]
+    test:
+      targets:
+        - GeoAlarmUITests
   GeoAlarm:
     build:
       targets:

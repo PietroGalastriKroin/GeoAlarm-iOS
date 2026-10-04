@@ -68,6 +68,9 @@ final class AppContainer {
     func start() {
         UNUserNotificationCenter.current().delegate = notificationDelegate
         fallbackDelivery.registerCategories()
+        #if DEBUG
+        applyUITestLaunchArguments()
+        #endif
         resyncGeofences()
     }
 

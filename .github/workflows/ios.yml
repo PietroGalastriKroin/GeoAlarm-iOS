@@ -114,3 +114,57 @@ jobs:
           git add -A
           git commit -qm "CI logs for ${{ github.sha }}"
           git push -f origin HEAD:ci-logs
+
+  ui-shots:
+    runs-on: macos-26
+    timeout-minutes: 40
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Install XcodeGen
+        run: brew install xcodegen
+
+      - name: Generate Xcode project
+        run: xcodegen generate
+
+      - name: Pick simulator
+        id: sim
+        run: |
+          UDID=$(xcrun simctl list devices available -j | python3 -c "
+          import json,sys
+          d=json.load(sys.stdin)['devices']
+          for rt in sorted(d, reverse=True):
+              if 'iOS' not in rt: continue
+              for dev in d[rt]:
+                  if dev['name'].startswith('iPhone') and dev['isAvailable']:
+                      print(dev['udid']); sys.exit(0)
+          ")
+          echo "udid=$UDID" >> "$GITHUB_OUTPUT"
+
+      - name: UI tour with screenshots
+        continue-on-error: true
+        run: |
+          set -o pipefail
+          mkdir -p "$HOME/ui-shots"
+          xcodebuild test \
+            -project GeoAlarm.xcodeproj -scheme GeoAlarmUI \
+            -destination "id=${{ steps.sim.outputs.udid }}" \
+            -resultBundlePath build/ui.xcresult \
+            CODE_SIGNING_ALLOWED=NO 2>&1 | tee ui-test.log
+
+      - name: Publish screenshots to ci-shots branch
+        if: always()
+        run: |
+          mkdir -p /tmp/shots
+          cp "$HOME"/ui-shots/*.png /tmp/shots/ 2>/dev/null || true
+          grep -vE "CoreData" ui-test.log | grep -E "error:|failed|passed|Executed|TEST" | tail -60 > /tmp/shots/ui-summary.txt || true
+          ls -la /tmp/shots
+          git config user.name "github-actions"
+          git config user.email "actions@github.com"
+          git checkout --orphan ci-shots-tmp
+          git rm -rf . -q || true
+          git clean -fdxq
+          cp -R /tmp/shots/. .
+          git add -A
+          git commit -qm "UI screenshots for ${{ github.sha }}"
+          git push -f origin HEAD:ci-shots
