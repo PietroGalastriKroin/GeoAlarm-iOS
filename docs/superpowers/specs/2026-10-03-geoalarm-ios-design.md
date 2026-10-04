@@ -55,9 +55,12 @@ App/           Composition root (AppContainer), @main, AppDelegate, roteamento d
 - Região monitorada: evento só é reportado após o aparelho se afastar da borda por uma
   distância mínima por ≥ 20 s. Precisão e latência variam (urbano, GPS fraco).
 - Raio mínimo útil na prática: ~100 m. Valores menores disparam de forma errática.
-- Soneca por distância: iOS não permite timer periódico confiável em segundo plano. A
-  reverificação usa uma notificação local agendada (acorda o app para checar a distância) e
-  mudanças significativas de localização. É aproximada, não exata.
+- Soneca por distância: o iOS não permite timer periódico confiável em segundo plano, e
+  "mudança significativa de localização" só dispara a cada ~500 m (inútil para quem está
+  parado perto do ponto). A solução adotada é ligar localização contínua em segundo plano
+  (`allowsBackgroundLocationUpdates`, indicador azul do sistema) enquanto a soneca durar, e
+  reverificar a distância a cada 30 s (só vale a partir de 2 min, como no Android). Custa
+  bateria e, se o iOS encerrar o app, a soneca se perde.
 - Fade-in de volume e padrões de háptica só valem com o app em primeiro plano. O alerta do
   AlarmKit usa som e vibração do sistema.
 - Sons customizados no AlarmKit: relatos de que podem falhar em dispositivo real (fonte
@@ -77,7 +80,14 @@ App/           Composition root (AppContainer), @main, AppDelegate, roteamento d
 
 ## Testes
 
-- Unitários (XCTest, rodam no CI): Haversine, seleção das 20 regiões, `isActiveOn`,
-  regra de soneca por distância, mapeadores SwiftData.
+- Unitários (XCTest, rodam no CI, 29 testes): Haversine, seleção das 20 regiões, dias ativos,
+  política de disparo e de soneca, linhas do tempo de vibração, repositório SwiftData (em
+  memória) e persistência das configurações.
+- Tour de interface (XCUITest, alvo `GeoAlarmUITests`, esquema `GeoAlarmUI`): percorre lista,
+  edição, mapa, ajustes e as três telas de alarme em claro e escuro, e publica capturas de
+  tela no branch `ci-shots` para inspeção visual (não há Xcode local). Usa dados de
+  demonstração por argumentos de lançamento, compilados só em builds Debug.
 - Build do app para o simulador em todo push.
 - `.ipa` sem assinatura publicado como Release para o sideload.
+- Lição registrada: `ModelContext` não mantém o `ModelContainer` vivo. O repositório guarda
+  os dois, o que um teste (container liberado, trap no primeiro fetch) revelou.
