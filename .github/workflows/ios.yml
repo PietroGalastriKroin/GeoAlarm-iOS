@@ -48,7 +48,18 @@ jobs:
           xcodebuild test \
             -project GeoAlarm.xcodeproj -scheme GeoAlarm \
             -destination "id=${{ steps.sim.outputs.udid }}" \
+            -resultBundlePath build/test.xcresult \
             CODE_SIGNING_ALLOWED=NO 2>&1 | tee build-sim.log
+
+      - name: Collect test diagnostics
+        if: always()
+        run: |
+          mkdir -p /tmp/ci/crash
+          cp ~/Library/Logs/DiagnosticReports/*GeoAlarm* /tmp/ci/crash/ 2>/dev/null || true
+          if [ -d build/test.xcresult ]; then
+            xcrun xcresulttool get test-results summary --path build/test.xcresult --compact > /tmp/ci/test-summary.json 2>/tmp/ci/test-summary.err || true
+            xcrun xcresulttool get test-results tests --path build/test.xcresult --compact > /tmp/ci/test-details.json 2>/dev/null || true
+          fi
 
       - name: Archive for device (unsigned)
         run: |
@@ -97,7 +108,7 @@ jobs:
           git config user.email "actions@github.com"
           git checkout --orphan ci-logs-tmp
           git rm -rf . -q || true
-          cp /tmp/ci/* .
+          cp -R /tmp/ci/. .
           git add -A
           git commit -qm "CI logs for ${{ github.sha }}"
           git push -f origin HEAD:ci-logs
