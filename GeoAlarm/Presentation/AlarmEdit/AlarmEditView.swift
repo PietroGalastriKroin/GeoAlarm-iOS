@@ -278,11 +278,12 @@ struct AlarmEditView: View {
                 ), supportsOpacity: false)
             }
 
+            let hasImage = vm.alarm.backgroundImageFileName != nil
             PhotosPicker(selection: $photoItem, matching: .images) {
-                Label(vm.alarm.backgroundImageFileName == nil ? "Escolher imagem de fundo" : "Trocar imagem de fundo",
+                Label(hasImage ? "Trocar imagem de fundo" : "Escolher imagem de fundo",
                       systemImage: "photo")
             }
-            if vm.alarm.backgroundImageFileName != nil {
+            if hasImage {
                 Button(role: .destructive) {
                     vm.clearBackgroundImage()
                 } label: {

@@ -3,9 +3,13 @@ import SwiftData
 
 @MainActor
 final class SwiftDataGeoAlarmRepository: GeoAlarmRepository {
+    /// O contexto não mantém o container vivo: se este for liberado, qualquer acesso ao
+    /// contexto causa um trap. Por isso o repositório guarda o container junto.
+    private let container: ModelContainer
     private let context: ModelContext
 
     init(container: ModelContainer) {
+        self.container = container
         self.context = container.mainContext
     }
 

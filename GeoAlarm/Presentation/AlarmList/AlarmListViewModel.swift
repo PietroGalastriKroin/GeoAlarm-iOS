@@ -11,7 +11,11 @@ final class AlarmListViewModel {
     @ObservationIgnored private let toggleAlarm: ToggleAlarmUseCase
     @ObservationIgnored private let deleteAlarm: DeleteAlarmUseCase
 
-    init(container: AppContainer = .shared) {
+    convenience init() {
+        self.init(container: AppContainer.shared)
+    }
+
+    init(container: AppContainer) {
         getAlarms = container.getAlarms
         toggleAlarm = container.toggleAlarm
         deleteAlarm = container.deleteAlarm

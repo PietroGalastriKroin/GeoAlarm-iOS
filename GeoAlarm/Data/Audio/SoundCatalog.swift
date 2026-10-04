@@ -6,7 +6,7 @@ import Foundation
 /// `RingtoneManager` do Android), então o app traz alguns sons próprios e permite importar
 /// áudio do aparelho. Os importados são copiados para `Library/Sounds`, a única pasta
 /// (além do bundle) de onde o sistema aceita tocar sons de notificação/alarme.
-@MainActor
+/// Sem estado mutável, então pode ser usado de qualquer contexto de execução.
 final class SoundCatalog {
     struct BuiltInSound: Identifiable, Equatable {
         let name: String        // identificador estável: "alvorada"

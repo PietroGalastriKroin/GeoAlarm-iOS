@@ -13,7 +13,11 @@ final class AlarmEditViewModel {
     @ObservationIgnored private let saveAlarm: SaveAlarmUseCase
     @ObservationIgnored private var originalBackgroundImage: String?
 
-    init(existing: GeoAlarm?, container: AppContainer = .shared) {
+    convenience init(existing: GeoAlarm?) {
+        self.init(existing: existing, container: AppContainer.shared)
+    }
+
+    init(existing: GeoAlarm?, container: AppContainer) {
         saveAlarm = container.saveAlarm
         if let existing {
             alarm = existing
