@@ -1,0 +1,16 @@
+Ignoring --strip-bitcode because --sign was not passed
+Ignoring --strip-bitcode because --sign was not passed
+    builtin-copyPlist --validate --convert xml1 --macro-expansion WRAPPEDPRODUCTNAME GeoAlarmUITests-Runner --macro-expansion WRAPPEDPRODUCTBUNDLEIDENTIFIER com.pietrogalastri.geoalarm.uitests.xctrunner --macro-expansion TESTPRODUCTNAME GeoAlarmUITests --macro-expansion TESTPRODUCTBUNDLEIDENTIFIER com.pietrogalastri.geoalarm.uitests --copy-value UIDeviceFamily /Users/runner/Library/Developer/Xcode/DerivedData/GeoAlarm-bgjyfjejddafizazceyaykvykrwr/Build/Products/Debug-iphonesimulator/GeoAlarmUITests-Runner.app/PlugIns/GeoAlarmUITests.xctest/Info.plist --outdir /Users/runner/Library/Developer/Xcode/DerivedData/GeoAlarm-bgjyfjejddafizazceyaykvykrwr/Build/Products/Debug-iphonesimulator/GeoAlarmUITests-Runner.app -- /Applications/Xcode_26.6.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/Library/Xcode/Agents/XCTRunner.app/Info.plist
+Test Case '-[GeoAlarmUITests.ScreenshotTests testMainTourDark]' passed (38.611 seconds).
+/Users/runner/work/GeoAlarm-iOS/GeoAlarm-iOS/GeoAlarmUITests/ScreenshotTests.swift:31: error: -[GeoAlarmUITests.ScreenshotTests testMainTourLight] : Failed to get screenshot: Timed out while requesting screenshot.
+Test Case '-[GeoAlarmUITests.ScreenshotTests testMainTourLight]' failed (65.299 seconds).
+Test Case '-[GeoAlarmUITests.ScreenshotTests testTriggerButtonDark]' passed (32.261 seconds).
+Test Case '-[GeoAlarmUITests.ScreenshotTests testTriggerHold]' passed (10.296 seconds).
+Test Case '-[GeoAlarmUITests.ScreenshotTests testTriggerSwipe]' passed (9.242 seconds).
+Test Suite 'ScreenshotTests' failed at 2026-10-05 11:54:31.367.
+	 Executed 5 tests, with 1 failure (0 unexpected) in 155.709 (155.725) seconds
+Test Suite 'GeoAlarmUITests.xctest' failed at 2026-10-05 11:54:31.369.
+	 Executed 5 tests, with 1 failure (0 unexpected) in 155.709 (155.727) seconds
+Test Suite 'All tests' failed at 2026-10-05 11:54:31.369.
+	 Executed 5 tests, with 1 failure (0 unexpected) in 155.709 (155.737) seconds
+** TEST FAILED **
