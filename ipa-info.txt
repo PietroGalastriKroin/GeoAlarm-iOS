@@ -1,0 +1,93 @@
+== ipa size
+-rw-r--r--  1 runner  staff   3.2M Oct  5 11:53 build/GeoAlarm.ipa
+== Info.plist
+{
+  "BuildMachineOSBuild" => "25G83"
+  "CFBundleDevelopmentRegion" => "en"
+  "CFBundleDisplayName" => "GeoAlarm"
+  "CFBundleExecutable" => "GeoAlarm"
+  "CFBundleIcons" => {
+    "CFBundlePrimaryIcon" => {
+      "CFBundleIconFiles" => [
+        0 => "AppIcon60x60"
+      ]
+      "CFBundleIconName" => "AppIcon"
+    }
+  }
+  "CFBundleIcons~ipad" => {
+    "CFBundlePrimaryIcon" => {
+      "CFBundleIconFiles" => [
+        0 => "AppIcon60x60"
+        1 => "AppIcon76x76"
+      ]
+    }
+  }
+  "CFBundleIdentifier" => "com.pietrogalastri.geoalarm"
+  "CFBundleInfoDictionaryVersion" => "6.0"
+  "CFBundleName" => "GeoAlarm"
+  "CFBundlePackageType" => "APPL"
+  "CFBundleShortVersionString" => "1.0.0"
+  "CFBundleSupportedPlatforms" => [
+    0 => "iPhoneOS"
+  ]
+  "CFBundleVersion" => "1"
+  "DTCompiler" => "com.apple.compilers.llvm.clang.1_0"
+  "DTPlatformBuild" => "23F81a"
+  "DTPlatformName" => "iphoneos"
+  "DTPlatformVersion" => "26.5"
+  "DTSDKBuild" => "23F81a"
+  "DTSDKName" => "iphoneos26.5"
+  "DTXcode" => "2660"
+  "DTXcodeBuild" => "17F113"
+  "ITSAppUsesNonExemptEncryption" => false
+  "MinimumOSVersion" => "17.0"
+  "NSAccentColorName" => "AccentColor"
+  "NSAlarmKitUsageDescription" => "O GeoAlarm usa alarmes para tocar mesmo com o iPhone no silencioso ou com a tela bloqueada quando você chega ao destino."
+  "NSLocationAlwaysAndWhenInUseUsageDescription" => "O GeoAlarm precisa da localização "Sempre" para disparar o alarme quando você entra ou sai da área, mesmo com o app fechado."
+  "NSLocationUsageDescription" => "O GeoAlarm usa sua localização para disparar alarmes ao entrar ou sair de uma área."
+  "NSLocationWhenInUseUsageDescription" => "O GeoAlarm usa sua localização para mostrar o mapa e calcular a distância até o ponto do alarme."
+  "UIApplicationSceneManifest" => {
+    "UIApplicationSupportsMultipleScenes" => false
+  }
+  "UIBackgroundModes" => [
+    0 => "location"
+    1 => "audio"
+  ]
+  "UIDeviceFamily" => [
+    0 => 1
+  ]
+  "UILaunchScreen" => {
+  }
+  "UIRequiredDeviceCapabilities" => [
+    0 => "arm64"
+  ]
+  "UISupportedInterfaceOrientations" => [
+    0 => "UIInterfaceOrientationPortrait"
+  ]
+  "UISupportedInterfaceOrientations~ipad" => [
+    0 => "UIInterfaceOrientationPortrait"
+    1 => "UIInterfaceOrientationLandscapeLeft"
+    2 => "UIInterfaceOrientationLandscapeRight"
+  ]
+}
+== bundle files
+total 10400
+drwxr-xr-x  15 runner  staff     480 Oct  5 11:53 .
+drwxr-xr-x   3 runner  staff      96 Oct  5 11:53 ..
+-rw-r--r--   1 runner  staff  793844 Oct  5 11:53 alvorada.wav
+-rw-r--r--   1 runner  staff   12125 Oct  5 11:53 AppIcon60x60@2x.png
+-rw-r--r--   1 runner  staff   15599 Oct  5 11:53 AppIcon76x76@2x~ipad.png
+-rw-r--r--   1 runner  staff   47992 Oct  5 11:53 Assets.car
+-rw-r--r--   1 runner  staff  705644 Oct  5 11:53 bip_classico.wav
+-rwxr-xr-x   1 runner  staff  900232 Oct  5 11:53 GeoAlarm
+-rw-r--r--   1 runner  staff    2424 Oct  5 11:53 Info.plist
+drwxr-xr-x   4 runner  staff     128 Oct  5 11:53 Metadata.appintents
+-rw-r--r--   1 runner  staff       8 Oct  5 11:53 PkgInfo
+-rw-r--r--   1 runner  staff  705644 Oct  5 11:53 pulso.wav
+-rw-r--r--   1 runner  staff  705644 Oct  5 11:53 radar.wav
+-rw-r--r--   1 runner  staff  705644 Oct  5 11:53 sino.wav
+-rw-r--r--   1 runner  staff  705644 Oct  5 11:53 sirene.wav
+== binary architectures
+Non-fat file: build/ipa/Payload/GeoAlarm.app/GeoAlarm is architecture: arm64
+== codesign
+build/ipa/Payload/GeoAlarm.app: code object is not signed at all

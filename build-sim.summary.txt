@@ -1,0 +1,920 @@
+2026-10-05 11:53:05.451387+0000 GeoAlarm[6925:27429] [error] CoreData: error: Failed to stat path '/Users/runner/Library/Developer/CoreSimulator/Devices/22452A91-4697-4369-8812-53ADB77EB73B/data/Containers/Data/Application/ED30343B-1FF2-4278-A01E-1021BBBF5AF9/Library/Application Support/default.store', errno 2 / No such file or directory.
+CoreData: error: Failed to stat path '/Users/runner/Library/Developer/CoreSimulator/Devices/22452A91-4697-4369-8812-53ADB77EB73B/data/Containers/Data/Application/ED30343B-1FF2-4278-A01E-1021BBBF5AF9/Library/Application Support/default.store', errno 2 / No such file or directory.
+2026-10-05 11:53:05.451905+0000 GeoAlarm[6925:27429] [error] CoreData: error: Executing as effective user 501
+CoreData: error: Executing as effective user 501
+2026-10-05 11:53:05.452014+0000 GeoAlarm[6925:27429] [error] CoreData: error:   Sandbox access to file-write-create denied
+CoreData: error:   Sandbox access to file-write-create denied
+2026-10-05 11:53:05.452093+0000 GeoAlarm[6925:27429] [error] CoreData: error: Failed to statfs file; errno 2 / No such file or directory.
+CoreData: error: Failed to statfs file; errno 2 / No such file or directory.
+2026-10-05 11:53:05.452708+0000 GeoAlarm[6925:27429] [error] CoreData: error: Information for file system
+CoreData: error: Information for file system
+2026-10-05 11:53:05.452762+0000 GeoAlarm[6925:27429] [error] CoreData: error: ---------------------------
+CoreData: error: ---------------------------
+2026-10-05 11:53:05.452807+0000 GeoAlarm[6925:27429] [error] CoreData: error:   File system type: 		0
+CoreData: error:   File system type: 		0
+2026-10-05 11:53:05.452852+0000 GeoAlarm[6925:27429] [error] CoreData: error:   File system flags: 		0
+CoreData: error:   File system flags: 		0
+2026-10-05 11:53:05.452895+0000 GeoAlarm[6925:27429] [error] CoreData: error:   Total data blocks: 		0
+CoreData: error:   Total data blocks: 		0
+2026-10-05 11:53:05.452942+0000 GeoAlarm[6925:27429] [error] CoreData: error:   Free data blocks: 		0
+CoreData: error:   Free data blocks: 		0
+2026-10-05 11:53:05.501453+0000 GeoAlarm[6925:27429] [error] CoreData: error:   Free blocks for nonsuperuser:	0
+CoreData: error:   Free blocks for nonsuperuser:	0
+2026-10-05 11:53:05.501733+0000 GeoAlarm[6925:27429] [error] CoreData: error:   Total i-nodes: 			0
+CoreData: error:   Total i-nodes: 			0
+2026-10-05 11:53:05.501800+0000 GeoAlarm[6925:27429] [error] CoreData: error:   File system ID: 		0, 0
+CoreData: error:   File system ID: 		0, 0
+2026-10-05 11:53:05.501853+0000 GeoAlarm[6925:27429] [error] CoreData: error:   Free i-nodes: 			0
+CoreData: error:   Free i-nodes: 			0
+2026-10-05 11:53:05.501901+0000 GeoAlarm[6925:27429] [error] CoreData: error:   Owner UID: 			0
+CoreData: error:   Owner UID: 			0
+2026-10-05 11:53:05.501948+0000 GeoAlarm[6925:27429] [error] CoreData: error:   Filesystem type name:
+CoreData: error:   Filesystem type name: 		
+2026-10-05 11:53:05.501997+0000 GeoAlarm[6925:27429] [error] CoreData: error:   Mount on name:
+CoreData: error:   Mount on name: 			
+2026-10-05 11:53:05.502079+0000 GeoAlarm[6925:27429] [error] CoreData: error:   Mount from name: 		\M-D\M-|\^C\M^@\^A
+CoreData: error:   Mount from name: 		ƒ¸Ä
+2026-10-05 11:53:05.503526+0000 GeoAlarm[6925:27429] [error] CoreData: error: Failed to stat path '/Users/runner/Library/Developer/CoreSimulator/Devices/22452A91-4697-4369-8812-53ADB77EB73B/data/Containers/Data/Application/ED30343B-1FF2-4278-A01E-1021BBBF5AF9/Library/Application Support', errno 2 / No such file or directory.
+CoreData: error: Failed to stat path '/Users/runner/Library/Developer/CoreSimulator/Devices/22452A91-4697-4369-8812-53ADB77EB73B/data/Containers/Data/Application/ED30343B-1FF2-4278-A01E-1021BBBF5AF9/Library/Application Support', errno 2 / No such file or directory.
+2026-10-05 11:53:05.503622+0000 GeoAlarm[6925:27429] [error] CoreData: error: Executing as effective user 501
+CoreData: error: Executing as effective user 501
+2026-10-05 11:53:05.503713+0000 GeoAlarm[6925:27429] [error] CoreData: error:   Sandbox access to file-write-create denied
+CoreData: error:   Sandbox access to file-write-create denied
+2026-10-05 11:53:05.504057+0000 GeoAlarm[6925:27429] [error] CoreData: error: Failed to statfs file; errno 2 / No such file or directory.
+CoreData: error: Failed to statfs file; errno 2 / No such file or directory.
+2026-10-05 11:53:05.504151+0000 GeoAlarm[6925:27429] [error] CoreData: error: Information for file system
+CoreData: error: Information for file system
+2026-10-05 11:53:05.504199+0000 GeoAlarm[6925:27429] [error] CoreData: error: ---------------------------
+CoreData: error: ---------------------------
+2026-10-05 11:53:05.504260+0000 GeoAlarm[6925:27429] [error] CoreData: error:   File system type: 		0
+CoreData: error:   File system type: 		0
+2026-10-05 11:53:05.504309+0000 GeoAlarm[6925:27429] [error] CoreData: error:   File system flags: 		0
+CoreData: error:   File system flags: 		0
+2026-10-05 11:53:05.504358+0000 GeoAlarm[6925:27429] [error] CoreData: error:   Total data blocks: 		0
+CoreData: error:   Total data blocks: 		0
+2026-10-05 11:53:05.504406+0000 GeoAlarm[6925:27429] [error] CoreData: error:   Free data blocks: 		0
+CoreData: error:   Free data blocks: 		0
+2026-10-05 11:53:05.507289+0000 GeoAlarm[6925:27429] [error] CoreData: error:   Free blocks for nonsuperuser:	0
+CoreData: error:   Free blocks for nonsuperuser:	0
+2026-10-05 11:53:05.507392+0000 GeoAlarm[6925:27429] [error] CoreData: error:   Total i-nodes: 			0
+CoreData: error:   Total i-nodes: 			0
+2026-10-05 11:53:05.507455+0000 GeoAlarm[6925:27429] [error] CoreData: error:   File system ID: 		0, 0
+CoreData: error:   File system ID: 		0, 0
+2026-10-05 11:53:05.507504+0000 GeoAlarm[6925:27429] [error] CoreData: error:   Free i-nodes: 			0
+CoreData: error:   Free i-nodes: 			0
+2026-10-05 11:53:05.507551+0000 GeoAlarm[6925:27429] [error] CoreData: error:   Owner UID: 			0
+CoreData: error:   Owner UID: 			0
+2026-10-05 11:53:05.507599+0000 GeoAlarm[6925:27429] [error] CoreData: error:   Filesystem type name:
+CoreData: error:   Filesystem type name: 		
+2026-10-05 11:53:05.507679+0000 GeoAlarm[6925:27429] [error] CoreData: error:   Mount on name:
+CoreData: error:   Mount on name: 			
+2026-10-05 11:53:05.509306+0000 GeoAlarm[6925:27429] [error] CoreData: error:   Mount from name: 		\M-D\M-|\^C\M^@\^A
+CoreData: error:   Mount from name: 		ƒ¸Ä
+2026-10-05 11:53:05.509434+0000 GeoAlarm[6925:27429] [error] CoreData: error: Executing as effective user 501
+CoreData: error: Executing as effective user 501
+2026-10-05 11:53:05.509498+0000 GeoAlarm[6925:27429] [error] CoreData: error: Information for /Users/runner/Library/Developer/CoreSimulator/Devices/22452A91-4697-4369-8812-53ADB77EB73B/data/Containers/Data/Application/ED30343B-1FF2-4278-A01E-1021BBBF5AF9/Library
+CoreData: error: Information for /Users/runner/Library/Developer/CoreSimulator/Devices/22452A91-4697-4369-8812-53ADB77EB73B/data/Containers/Data/Application/ED30343B-1FF2-4278-A01E-1021BBBF5AF9/Library
+2026-10-05 11:53:05.509556+0000 GeoAlarm[6925:27429] [error] CoreData: error: ---------------------------
+CoreData: error: ---------------------------
+2026-10-05 11:53:05.526511+0000 GeoAlarm[6925:27429] [error] CoreData: error:   File Device ID: 	0
+CoreData: error:   File Device ID: 	0
+2026-10-05 11:53:05.526664+0000 GeoAlarm[6925:27429] [error] CoreData: error:   Device ID: 		16777226
+CoreData: error:   Device ID: 		16777226
+2026-10-05 11:53:05.526729+0000 GeoAlarm[6925:27429] [error] CoreData: error:   File Size: 		128 bytes
+CoreData: error:   File Size: 		128 bytes
+2026-10-05 11:53:05.526783+0000 GeoAlarm[6925:27429] [error] CoreData: error:   File inode: 		2964828
+CoreData: error:   File inode: 		2964828
+2026-10-05 11:53:05.526858+0000 GeoAlarm[6925:27429] [error] CoreData: error:   File user ID: 		501
+CoreData: error:   File user ID: 		501
+2026-10-05 11:53:05.526913+0000 GeoAlarm[6925:27429] [error] CoreData: error:   File group ID: 		20
+CoreData: error:   File group ID: 		20
+2026-10-05 11:53:05.526963+0000 GeoAlarm[6925:27429] [error] CoreData: error:   File Permissions:
+CoreData: error:   File Permissions: 	
+2026-10-05 11:53:05.527014+0000 GeoAlarm[6925:27429] [error] CoreData: error: d
+CoreData: error: d
+2026-10-05 11:53:05.527449+0000 GeoAlarm[6925:27429] [error] CoreData: error:   755
+CoreData: error:   755
+2026-10-05 11:53:05.527503+0000 GeoAlarm[6925:27429] [error] CoreData: error:   file is not a symbolic link
+CoreData: error:   file is not a symbolic link
+2026-10-05 11:53:05.527639+0000 GeoAlarm[6925:27429] [error] CoreData: error:   Sandbox access to file-write-create allowed
+CoreData: error:   Sandbox access to file-write-create allowed
+2026-10-05 11:53:05.527711+0000 GeoAlarm[6925:27429] [error] CoreData: error: Information for file system
+CoreData: error: Information for file system
+2026-10-05 11:53:05.527771+0000 GeoAlarm[6925:27429] [error] CoreData: error: ---------------------------
+CoreData: error: ---------------------------
+2026-10-05 11:53:05.527826+0000 GeoAlarm[6925:27429] [error] CoreData: error:   File system type: 		0x1a
+CoreData: error:   File system type: 		0x1a
+2026-10-05 11:53:05.527876+0000 GeoAlarm[6925:27429] [error] CoreData: error:   File system flags: 		0x4909000
+CoreData: error:   File system flags: 		0x4909000
+2026-10-05 11:53:05.528112+0000 GeoAlarm[6925:27429] [error] CoreData: error:   MNT_JOURNALED
+CoreData: error:   MNT_JOURNALED
+2026-10-05 11:53:05.528163+0000 GeoAlarm[6925:27429] [error] CoreData: error:   Total data blocks: 		83758080
+CoreData: error:   Total data blocks: 		83758080
+2026-10-05 11:53:05.528214+0000 GeoAlarm[6925:27429] [error] CoreData: error:   Free data blocks: 		24306227
+CoreData: error:   Free data blocks: 		24306227
+2026-10-05 11:53:05.528260+0000 GeoAlarm[6925:27429] [error] CoreData: error:   Free blocks for nonsuperuser:	24306227
+CoreData: error:   Free blocks for nonsuperuser:	24306227
+2026-10-05 11:53:05.528306+0000 GeoAlarm[6925:27429] [error] CoreData: error:   Total i-nodes: 			974144472
+CoreData: error:   Total i-nodes: 			974144472
+2026-10-05 11:53:05.528353+0000 GeoAlarm[6925:27429] [error] CoreData: error:   File system ID: 		0x100000a, 0x1a
+CoreData: error:   File system ID: 		0x100000a, 0x1a
+2026-10-05 11:53:05.528772+0000 GeoAlarm[6925:27429] [error] CoreData: error:   Free i-nodes: 			972249080
+CoreData: error:   Free i-nodes: 			972249080
+2026-10-05 11:53:05.528833+0000 GeoAlarm[6925:27429] [error] CoreData: error:   Owner UID: 			0
+CoreData: error:   Owner UID: 			0
+2026-10-05 11:53:05.528890+0000 GeoAlarm[6925:27429] [error] CoreData: error:   Filesystem type name: 		apfs
+CoreData: error:   Filesystem type name: 		apfs
+2026-10-05 11:53:05.528937+0000 GeoAlarm[6925:27429] [error] CoreData: error:   Mount on name: 			/System/Volumes/Data
+CoreData: error:   Mount on name: 			/System/Volumes/Data
+2026-10-05 11:53:05.528982+0000 GeoAlarm[6925:27429] [error] CoreData: error:   Mount from name: 		/dev/disk2s5
+CoreData: error:   Mount from name: 		/dev/disk2s5
+2026-10-05 11:53:05.529081+0000 GeoAlarm[6925:27429] [error] CoreData: error: Executing as effective user 501
+CoreData: error: Executing as effective user 501
+2026-10-05 11:53:05.529136+0000 GeoAlarm[6925:27429] [error] CoreData: error: Information for /Users/runner/Library/Developer/CoreSimulator/Devices/22452A91-4697-4369-8812-53ADB77EB73B/data/Containers/Data/Application/ED30343B-1FF2-4278-A01E-1021BBBF5AF9
+CoreData: error: Information for /Users/runner/Library/Developer/CoreSimulator/Devices/22452A91-4697-4369-8812-53ADB77EB73B/data/Containers/Data/Application/ED30343B-1FF2-4278-A01E-1021BBBF5AF9
+2026-10-05 11:53:05.529733+0000 GeoAlarm[6925:27429] [error] CoreData: error: ---------------------------
+CoreData: error: ---------------------------
+2026-10-05 11:53:05.529786+0000 GeoAlarm[6925:27429] [error] CoreData: error:   File Device ID: 	0
+CoreData: error:   File Device ID: 	0
+2026-10-05 11:53:05.529832+0000 GeoAlarm[6925:27429] [error] CoreData: error:   Device ID: 		16777226
+CoreData: error:   Device ID: 		16777226
+2026-10-05 11:53:05.529881+0000 GeoAlarm[6925:27429] [error] CoreData: error:   File Size: 		224 bytes
+CoreData: error:   File Size: 		224 bytes
+2026-10-05 11:53:05.529929+0000 GeoAlarm[6925:27429] [error] CoreData: error:   File inode: 		2964826
+CoreData: error:   File inode: 		2964826
+2026-10-05 11:53:05.530511+0000 GeoAlarm[6925:27429] [error] CoreData: error:   File user ID: 		501
+CoreData: error:   File user ID: 		501
+2026-10-05 11:53:05.530565+0000 GeoAlarm[6925:27429] [error] CoreData: error:   File group ID: 		20
+CoreData: error:   File group ID: 		20
+2026-10-05 11:53:05.530611+0000 GeoAlarm[6925:27429] [error] CoreData: error:   File Permissions:
+CoreData: error:   File Permissions: 	
+2026-10-05 11:53:05.530658+0000 GeoAlarm[6925:27429] [error] CoreData: error: d
+CoreData: error: d
+2026-10-05 11:53:05.530702+0000 GeoAlarm[6925:27429] [error] CoreData: error:   755
+CoreData: error:   755
+2026-10-05 11:53:05.530750+0000 GeoAlarm[6925:27429] [error] CoreData: error:   file is not a symbolic link
+CoreData: error:   file is not a symbolic link
+2026-10-05 11:53:05.530824+0000 GeoAlarm[6925:27429] [error] CoreData: error:   Sandbox access to file-write-create allowed
+CoreData: error:   Sandbox access to file-write-create allowed
+2026-10-05 11:53:05.531660+0000 GeoAlarm[6925:27429] [error] CoreData: error: Executing as effective user 501
+CoreData: error: Executing as effective user 501
+2026-10-05 11:53:05.531749+0000 GeoAlarm[6925:27429] [error] CoreData: error: Information for /Users/runner/Library/Developer/CoreSimulator/Devices/22452A91-4697-4369-8812-53ADB77EB73B/data/Containers/Data/Application
+CoreData: error: Information for /Users/runner/Library/Developer/CoreSimulator/Devices/22452A91-4697-4369-8812-53ADB77EB73B/data/Containers/Data/Application
+2026-10-05 11:53:05.531808+0000 GeoAlarm[6925:27429] [error] CoreData: error: ---------------------------
+CoreData: error: ---------------------------
+2026-10-05 11:53:05.531855+0000 GeoAlarm[6925:27429] [error] CoreData: error:   File Device ID: 	0
+CoreData: error:   File Device ID: 	0
+2026-10-05 11:53:05.531906+0000 GeoAlarm[6925:27429] [error] CoreData: error:   Device ID: 		16777226
+CoreData: error:   Device ID: 		16777226
+2026-10-05 11:53:05.531952+0000 GeoAlarm[6925:27429] [error] CoreData: error:   File Size: 		4768 bytes
+CoreData: error:   File Size: 		4768 bytes
+2026-10-05 11:53:05.532786+0000 GeoAlarm[6925:27429] [error] CoreData: error:   File inode: 		2954915
+CoreData: error:   File inode: 		2954915
+2026-10-05 11:53:05.532849+0000 GeoAlarm[6925:27429] [error] CoreData: error:   File user ID: 		501
+CoreData: error:   File user ID: 		501
+2026-10-05 11:53:05.532897+0000 GeoAlarm[6925:27429] [error] CoreData: error:   File group ID: 		20
+CoreData: error:   File group ID: 		20
+2026-10-05 11:53:05.532942+0000 GeoAlarm[6925:27429] [error] CoreData: error:   File Permissions:
+CoreData: error:   File Permissions: 	
+2026-10-05 11:53:05.533041+0000 GeoAlarm[6925:27429] [error] CoreData: error: d
+CoreData: error: d
+2026-10-05 11:53:05.533098+0000 GeoAlarm[6925:27429] [error] CoreData: error:   755
+CoreData: error:   755
+2026-10-05 11:53:05.533149+0000 GeoAlarm[6925:27429] [error] CoreData: error:   file is not a symbolic link
+CoreData: error:   file is not a symbolic link
+2026-10-05 11:53:05.534067+0000 GeoAlarm[6925:27429] [error] CoreData: error:   Sandbox access to file-write-create allowed
+CoreData: error:   Sandbox access to file-write-create allowed
+2026-10-05 11:53:05.534175+0000 GeoAlarm[6925:27429] [error] CoreData: error: Executing as effective user 501
+CoreData: error: Executing as effective user 501
+2026-10-05 11:53:05.534240+0000 GeoAlarm[6925:27429] [error] CoreData: error: Information for /Users/runner/Library/Developer/CoreSimulator/Devices/22452A91-4697-4369-8812-53ADB77EB73B/data/Containers/Data
+CoreData: error: Information for /Users/runner/Library/Developer/CoreSimulator/Devices/22452A91-4697-4369-8812-53ADB77EB73B/data/Containers/Data
+2026-10-05 11:53:05.534293+0000 GeoAlarm[6925:27429] [error] CoreData: error: ---------------------------
+CoreData: error: ---------------------------
+2026-10-05 11:53:05.534340+0000 GeoAlarm[6925:27429] [error] CoreData: error:   File Device ID: 	0
+CoreData: error:   File Device ID: 	0
+2026-10-05 11:53:05.534395+0000 GeoAlarm[6925:27429] [error] CoreData: error:   Device ID: 		16777226
+CoreData: error:   Device ID: 		16777226
+2026-10-05 11:53:05.536269+0000 GeoAlarm[6925:27429] [error] CoreData: error:   File Size: 		192 bytes
+CoreData: error:   File Size: 		192 bytes
+2026-10-05 11:53:05.536360+0000 GeoAlarm[6925:27429] [error] CoreData: error:   File inode: 		2954748
+CoreData: error:   File inode: 		2954748
+2026-10-05 11:53:05.536426+0000 GeoAlarm[6925:27429] [error] CoreData: error:   File user ID: 		501
+CoreData: error:   File user ID: 		501
+2026-10-05 11:53:05.536478+0000 GeoAlarm[6925:27429] [error] CoreData: error:   File group ID: 		20
+CoreData: error:   File group ID: 		20
+2026-10-05 11:53:05.536528+0000 GeoAlarm[6925:27429] [error] CoreData: error:   File Permissions:
+CoreData: error:   File Permissions: 	
+2026-10-05 11:53:05.536599+0000 GeoAlarm[6925:27429] [error] CoreData: error: d
+CoreData: error: d
+2026-10-05 11:53:05.536654+0000 GeoAlarm[6925:27429] [error] CoreData: error:   755
+CoreData: error:   755
+2026-10-05 11:53:05.536706+0000 GeoAlarm[6925:27429] [error] CoreData: error:   file is not a symbolic link
+CoreData: error:   file is not a symbolic link
+2026-10-05 11:53:05.537098+0000 GeoAlarm[6925:27429] [error] CoreData: error:   Sandbox access to file-write-create allowed
+CoreData: error:   Sandbox access to file-write-create allowed
+2026-10-05 11:53:05.537232+0000 GeoAlarm[6925:27429] [error] CoreData: error: Executing as effective user 501
+CoreData: error: Executing as effective user 501
+2026-10-05 11:53:05.537300+0000 GeoAlarm[6925:27429] [error] CoreData: error: Information for /Users/runner/Library/Developer/CoreSimulator/Devices/22452A91-4697-4369-8812-53ADB77EB73B/data/Containers
+CoreData: error: Information for /Users/runner/Library/Developer/CoreSimulator/Devices/22452A91-4697-4369-8812-53ADB77EB73B/data/Containers
+2026-10-05 11:53:05.537374+0000 GeoAlarm[6925:27429] [error] CoreData: error: ---------------------------
+CoreData: error: ---------------------------
+2026-10-05 11:53:05.537425+0000 GeoAlarm[6925:27429] [error] CoreData: error:   File Device ID: 	0
+CoreData: error:   File Device ID: 	0
+2026-10-05 11:53:05.537985+0000 GeoAlarm[6925:27429] [error] CoreData: error:   Device ID: 		16777226
+CoreData: error:   Device ID: 		16777226
+2026-10-05 11:53:05.538049+0000 GeoAlarm[6925:27429] [error] CoreData: error:   File Size: 		224 bytes
+CoreData: error:   File Size: 		224 bytes
+2026-10-05 11:53:05.538103+0000 GeoAlarm[6925:27429] [error] CoreData: error:   File inode: 		2954732
+CoreData: error:   File inode: 		2954732
+2026-10-05 11:53:05.538153+0000 GeoAlarm[6925:27429] [error] CoreData: error:   File user ID: 		501
+CoreData: error:   File user ID: 		501
+2026-10-05 11:53:05.538203+0000 GeoAlarm[6925:27429] [error] CoreData: error:   File group ID: 		20
+CoreData: error:   File group ID: 		20
+2026-10-05 11:53:05.538252+0000 GeoAlarm[6925:27429] [error] CoreData: error:   File Permissions:
+CoreData: error:   File Permissions: 	
+2026-10-05 11:53:05.538297+0000 GeoAlarm[6925:27429] [error] CoreData: error: d
+CoreData: error: d
+2026-10-05 11:53:05.538942+0000 GeoAlarm[6925:27429] [error] CoreData: error:   755
+CoreData: error:   755
+2026-10-05 11:53:05.539044+0000 GeoAlarm[6925:27429] [error] CoreData: error:   file is not a symbolic link
+CoreData: error:   file is not a symbolic link
+2026-10-05 11:53:05.539147+0000 GeoAlarm[6925:27429] [error] CoreData: error:   Sandbox access to file-write-create allowed
+CoreData: error:   Sandbox access to file-write-create allowed
+2026-10-05 11:53:05.539220+0000 GeoAlarm[6925:27429] [error] CoreData: error: Executing as effective user 501
+CoreData: error: Executing as effective user 501
+2026-10-05 11:53:05.539348+0000 GeoAlarm[6925:27429] [error] CoreData: error: Information for /Users/runner/Library/Developer/CoreSimulator/Devices/22452A91-4697-4369-8812-53ADB77EB73B/data
+CoreData: error: Information for /Users/runner/Library/Developer/CoreSimulator/Devices/22452A91-4697-4369-8812-53ADB77EB73B/data
+2026-10-05 11:53:05.539443+0000 GeoAlarm[6925:27429] [error] CoreData: error: ---------------------------
+CoreData: error: ---------------------------
+2026-10-05 11:53:05.539885+0000 GeoAlarm[6925:27429] [error] CoreData: error:   File Device ID: 	0
+CoreData: error:   File Device ID: 	0
+2026-10-05 11:53:05.539944+0000 GeoAlarm[6925:27429] [error] CoreData: error:   Device ID: 		16777226
+CoreData: error:   Device ID: 		16777226
+2026-10-05 11:53:05.539993+0000 GeoAlarm[6925:27429] [error] CoreData: error:   File Size: 		384 bytes
+CoreData: error:   File Size: 		384 bytes
+2026-10-05 11:53:05.540046+0000 GeoAlarm[6925:27429] [error] CoreData: error:   File inode: 		2284950
+CoreData: error:   File inode: 		2284950
+2026-10-05 11:53:05.540094+0000 GeoAlarm[6925:27429] [error] CoreData: error:   File user ID: 		501
+CoreData: error:   File user ID: 		501
+2026-10-05 11:53:05.540140+0000 GeoAlarm[6925:27429] [error] CoreData: error:   File group ID: 		20
+CoreData: error:   File group ID: 		20
+2026-10-05 11:53:05.540187+0000 GeoAlarm[6925:27429] [error] CoreData: error:   File Permissions:
+CoreData: error:   File Permissions: 	
+2026-10-05 11:53:05.540878+0000 GeoAlarm[6925:27429] [error] CoreData: error: d
+CoreData: error: d
+2026-10-05 11:53:05.540954+0000 GeoAlarm[6925:27429] [error] CoreData: error:   775
+CoreData: error:   775
+2026-10-05 11:53:05.541060+0000 GeoAlarm[6925:27429] [error] CoreData: error:   file is not a symbolic link
+CoreData: error:   file is not a symbolic link
+2026-10-05 11:53:05.541151+0000 GeoAlarm[6925:27429] [error] CoreData: error:   Sandbox access to file-write-create allowed
+CoreData: error:   Sandbox access to file-write-create allowed
+2026-10-05 11:53:05.541223+0000 GeoAlarm[6925:27429] [error] CoreData: error: Executing as effective user 501
+CoreData: error: Executing as effective user 501
+2026-10-05 11:53:05.541275+0000 GeoAlarm[6925:27429] [error] CoreData: error: Information for /Users/runner/Library/Developer/CoreSimulator/Devices/22452A91-4697-4369-8812-53ADB77EB73B
+CoreData: error: Information for /Users/runner/Library/Developer/CoreSimulator/Devices/22452A91-4697-4369-8812-53ADB77EB73B
+2026-10-05 11:53:05.541977+0000 GeoAlarm[6925:27429] [error] CoreData: error: ---------------------------
+CoreData: error: ---------------------------
+2026-10-05 11:53:05.542079+0000 GeoAlarm[6925:27429] [error] CoreData: error:   File Device ID: 	0
+CoreData: error:   File Device ID: 	0
+2026-10-05 11:53:05.542188+0000 GeoAlarm[6925:27429] [error] CoreData: error:   Device ID: 		16777226
+CoreData: error:   Device ID: 		16777226
+2026-10-05 11:53:05.542249+0000 GeoAlarm[6925:27429] [error] CoreData: error:   File Size: 		160 bytes
+CoreData: error:   File Size: 		160 bytes
+2026-10-05 11:53:05.542299+0000 GeoAlarm[6925:27429] [error] CoreData: error:   File inode: 		2284948
+CoreData: error:   File inode: 		2284948
+2026-10-05 11:53:05.542346+0000 GeoAlarm[6925:27429] [error] CoreData: error:   File user ID: 		501
+CoreData: error:   File user ID: 		501
+2026-10-05 11:53:05.542393+0000 GeoAlarm[6925:27429] [error] CoreData: error:   File group ID: 		20
+CoreData: error:   File group ID: 		20
+2026-10-05 11:53:05.543140+0000 GeoAlarm[6925:27429] [error] CoreData: error:   File Permissions:
+CoreData: error:   File Permissions: 	
+2026-10-05 11:53:05.543208+0000 GeoAlarm[6925:27429] [error] CoreData: error: d
+CoreData: error: d
+2026-10-05 11:53:05.543306+0000 GeoAlarm[6925:27429] [error] CoreData: error:   755
+CoreData: error:   755
+2026-10-05 11:53:05.543366+0000 GeoAlarm[6925:27429] [error] CoreData: error:   file is not a symbolic link
+CoreData: error:   file is not a symbolic link
+2026-10-05 11:53:05.543470+0000 GeoAlarm[6925:27429] [error] CoreData: error:   Sandbox access to file-write-create allowed
+CoreData: error:   Sandbox access to file-write-create allowed
+2026-10-05 11:53:05.543545+0000 GeoAlarm[6925:27429] [error] CoreData: error: Executing as effective user 501
+CoreData: error: Executing as effective user 501
+2026-10-05 11:53:05.543602+0000 GeoAlarm[6925:27429] [error] CoreData: error: Information for /Users/runner/Library/Developer/CoreSimulator/Devices
+CoreData: error: Information for /Users/runner/Library/Developer/CoreSimulator/Devices
+2026-10-05 11:53:05.544330+0000 GeoAlarm[6925:27429] [error] CoreData: error: ---------------------------
+CoreData: error: ---------------------------
+2026-10-05 11:53:05.544437+0000 GeoAlarm[6925:27429] [error] CoreData: error:   File Device ID: 	0
+CoreData: error:   File Device ID: 	0
+2026-10-05 11:53:05.544490+0000 GeoAlarm[6925:27429] [error] CoreData: error:   Device ID: 		16777226
+CoreData: error:   Device ID: 		16777226
+2026-10-05 11:53:05.544543+0000 GeoAlarm[6925:27429] [error] CoreData: error:   File Size: 		2016 bytes
+CoreData: error:   File Size: 		2016 bytes
+2026-10-05 11:53:05.544594+0000 GeoAlarm[6925:27429] [error] CoreData: error:   File inode: 		2263005
+CoreData: error:   File inode: 		2263005
+2026-10-05 11:53:05.544642+0000 GeoAlarm[6925:27429] [error] CoreData: error:   File user ID: 		501
+CoreData: error:   File user ID: 		501
+2026-10-05 11:53:05.544690+0000 GeoAlarm[6925:27429] [error] CoreData: error:   File group ID: 		20
+CoreData: error:   File group ID: 		20
+2026-10-05 11:53:05.548181+0000 GeoAlarm[6925:27429] [error] CoreData: error:   File Permissions:
+CoreData: error:   File Permissions: 	
+2026-10-05 11:53:05.548478+0000 GeoAlarm[6925:27429] [error] CoreData: error: d
+CoreData: error: d
+2026-10-05 11:53:05.548578+0000 GeoAlarm[6925:27429] [error] CoreData: error:   755
+CoreData: error:   755
+2026-10-05 11:53:05.548637+0000 GeoAlarm[6925:27429] [error] CoreData: error:   file is not a symbolic link
+CoreData: error:   file is not a symbolic link
+2026-10-05 11:53:05.548746+0000 GeoAlarm[6925:27429] [error] CoreData: error:   Sandbox access to file-write-create allowed
+CoreData: error:   Sandbox access to file-write-create allowed
+2026-10-05 11:53:05.548818+0000 GeoAlarm[6925:27429] [error] CoreData: error: Executing as effective user 501
+CoreData: error: Executing as effective user 501
+2026-10-05 11:53:05.548869+0000 GeoAlarm[6925:27429] [error] CoreData: error: Information for /Users/runner/Library/Developer/CoreSimulator
+CoreData: error: Information for /Users/runner/Library/Developer/CoreSimulator
+2026-10-05 11:53:05.554372+0000 GeoAlarm[6925:27429] [error] CoreData: error: ---------------------------
+CoreData: error: ---------------------------
+2026-10-05 11:53:05.554534+0000 GeoAlarm[6925:27429] [error] CoreData: error:   File Device ID: 	0
+CoreData: error:   File Device ID: 	0
+2026-10-05 11:53:05.554613+0000 GeoAlarm[6925:27429] [error] CoreData: error:   Device ID: 		16777226
+CoreData: error:   Device ID: 		16777226
+2026-10-05 11:53:05.554684+0000 GeoAlarm[6925:27429] [error] CoreData: error:   File Size: 		160 bytes
+CoreData: error:   File Size: 		160 bytes
+2026-10-05 11:53:05.554759+0000 GeoAlarm[6925:27429] [error] CoreData: error:   File inode: 		2262957
+CoreData: error:   File inode: 		2262957
+2026-10-05 11:53:05.554815+0000 GeoAlarm[6925:27429] [error] CoreData: error:   File user ID: 		501
+CoreData: error:   File user ID: 		501
+2026-10-05 11:53:05.554864+0000 GeoAlarm[6925:27429] [error] CoreData: error:   File group ID: 		20
+CoreData: error:   File group ID: 		20
+2026-10-05 11:53:05.574285+0000 GeoAlarm[6925:27429] [error] CoreData: error:   File Permissions:
+CoreData: error:   File Permissions: 	
+2026-10-05 11:53:05.574388+0000 GeoAlarm[6925:27429] [error] CoreData: error: d
+CoreData: error: d
+2026-10-05 11:53:05.574454+0000 GeoAlarm[6925:27429] [error] CoreData: error:   755
+CoreData: error:   755
+2026-10-05 11:53:05.574510+0000 GeoAlarm[6925:27429] [error] CoreData: error:   file is not a symbolic link
+CoreData: error:   file is not a symbolic link
+2026-10-05 11:53:05.574654+0000 GeoAlarm[6925:27429] [error] CoreData: error:   Sandbox access to file-write-create allowed
+CoreData: error:   Sandbox access to file-write-create allowed
+2026-10-05 11:53:05.574766+0000 GeoAlarm[6925:27429] [error] CoreData: error: Executing as effective user 501
+CoreData: error: Executing as effective user 501
+2026-10-05 11:53:05.574832+0000 GeoAlarm[6925:27429] [error] CoreData: error: Information for /Users/runner/Library/Developer
+CoreData: error: Information for /Users/runner/Library/Developer
+2026-10-05 11:53:05.575082+0000 GeoAlarm[6925:27429] [error] CoreData: error: ---------------------------
+CoreData: error: ---------------------------
+2026-10-05 11:53:05.575148+0000 GeoAlarm[6925:27429] [error] CoreData: error:   File Device ID: 	0
+CoreData: error:   File Device ID: 	0
+2026-10-05 11:53:05.575199+0000 GeoAlarm[6925:27429] [error] CoreData: error:   Device ID: 		16777226
+CoreData: error:   Device ID: 		16777226
+2026-10-05 11:53:05.575264+0000 GeoAlarm[6925:27429] [error] CoreData: error:   File Size: 		160 bytes
+CoreData: error:   File Size: 		160 bytes
+2026-10-05 11:53:05.575314+0000 GeoAlarm[6925:27429] [error] CoreData: error:   File inode: 		2262946
+CoreData: error:   File inode: 		2262946
+2026-10-05 11:53:05.575362+0000 GeoAlarm[6925:27429] [error] CoreData: error:   File user ID: 		501
+CoreData: error:   File user ID: 		501
+2026-10-05 11:53:05.575416+0000 GeoAlarm[6925:27429] [error] CoreData: error:   File group ID: 		20
+CoreData: error:   File group ID: 		20
+2026-10-05 11:53:05.575691+0000 GeoAlarm[6925:27429] [error] CoreData: error:   File Permissions:
+CoreData: error:   File Permissions: 	
+2026-10-05 11:53:05.575748+0000 GeoAlarm[6925:27429] [error] CoreData: error: d
+CoreData: error: d
+2026-10-05 11:53:05.575797+0000 GeoAlarm[6925:27429] [error] CoreData: error:   755
+CoreData: error:   755
+2026-10-05 11:53:05.575844+0000 GeoAlarm[6925:27429] [error] CoreData: error:   file is not a symbolic link
+CoreData: error:   file is not a symbolic link
+2026-10-05 11:53:05.575917+0000 GeoAlarm[6925:27429] [error] CoreData: error:   Sandbox access to file-write-create allowed
+CoreData: error:   Sandbox access to file-write-create allowed
+2026-10-05 11:53:05.575991+0000 GeoAlarm[6925:27429] [error] CoreData: error: Executing as effective user 501
+CoreData: error: Executing as effective user 501
+2026-10-05 11:53:05.576043+0000 GeoAlarm[6925:27429] [error] CoreData: error: Information for /Users/runner/Library
+CoreData: error: Information for /Users/runner/Library
+2026-10-05 11:53:05.576442+0000 GeoAlarm[6925:27429] [error] CoreData: error: ---------------------------
+CoreData: error: ---------------------------
+2026-10-05 11:53:05.576536+0000 GeoAlarm[6925:27429] [error] CoreData: error:   File Device ID: 	0
+CoreData: error:   File Device ID: 	0
+2026-10-05 11:53:05.576618+0000 GeoAlarm[6925:27429] [error] CoreData: error:   Device ID: 		16777226
+CoreData: error:   Device ID: 		16777226
+2026-10-05 11:53:05.576700+0000 GeoAlarm[6925:27429] [error] CoreData: error:   File Size: 		2688 bytes
+CoreData: error:   File Size: 		2688 bytes
+2026-10-05 11:53:05.576800+0000 GeoAlarm[6925:27429] [error] CoreData: error:   File inode: 		35809
+CoreData: error:   File inode: 		35809
+2026-10-05 11:53:05.576884+0000 GeoAlarm[6925:27429] [error] CoreData: error:   File user ID: 		501
+CoreData: error:   File user ID: 		501
+2026-10-05 11:53:05.576973+0000 GeoAlarm[6925:27429] [error] CoreData: error:   File group ID: 		20
+CoreData: error:   File group ID: 		20
+2026-10-05 11:53:05.577089+0000 GeoAlarm[6925:27429] [error] CoreData: error:   File Permissions:
+CoreData: error:   File Permissions: 	
+2026-10-05 11:53:05.577566+0000 GeoAlarm[6925:27429] [error] CoreData: error: d
+CoreData: error: d
+2026-10-05 11:53:05.577632+0000 GeoAlarm[6925:27429] [error] CoreData: error:   700
+CoreData: error:   700
+2026-10-05 11:53:05.577679+0000 GeoAlarm[6925:27429] [error] CoreData: error:   file is not a symbolic link
+CoreData: error:   file is not a symbolic link
+2026-10-05 11:53:05.577749+0000 GeoAlarm[6925:27429] [error] CoreData: error:   Sandbox access to file-write-create allowed
+CoreData: error:   Sandbox access to file-write-create allowed
+2026-10-05 11:53:05.577817+0000 GeoAlarm[6925:27429] [error] CoreData: error: Executing as effective user 501
+CoreData: error: Executing as effective user 501
+2026-10-05 11:53:05.577868+0000 GeoAlarm[6925:27429] [error] CoreData: error: Information for /Users/runner
+CoreData: error: Information for /Users/runner
+2026-10-05 11:53:05.577912+0000 GeoAlarm[6925:27429] [error] CoreData: error: ---------------------------
+CoreData: error: ---------------------------
+2026-10-05 11:53:05.578402+0000 GeoAlarm[6925:27429] [error] CoreData: error:   File Device ID: 	0
+CoreData: error:   File Device ID: 	0
+2026-10-05 11:53:05.578455+0000 GeoAlarm[6925:27429] [error] CoreData: error:   Device ID: 		16777226
+CoreData: error:   Device ID: 		16777226
+2026-10-05 11:53:05.578510+0000 GeoAlarm[6925:27429] [error] CoreData: error:   File Size: 		1312 bytes
+CoreData: error:   File Size: 		1312 bytes
+2026-10-05 11:53:05.578558+0000 GeoAlarm[6925:27429] [error] CoreData: error:   File inode: 		35800
+CoreData: error:   File inode: 		35800
+2026-10-05 11:53:05.578602+0000 GeoAlarm[6925:27429] [error] CoreData: error:   File user ID: 		501
+CoreData: error:   File user ID: 		501
+2026-10-05 11:53:05.578647+0000 GeoAlarm[6925:27429] [error] CoreData: error:   File group ID: 		20
+CoreData: error:   File group ID: 		20
+2026-10-05 11:53:05.578692+0000 GeoAlarm[6925:27429] [error] CoreData: error:   File Permissions:
+CoreData: error:   File Permissions: 	
+2026-10-05 11:53:05.579478+0000 GeoAlarm[6925:27429] [error] CoreData: error: d
+CoreData: error: d
+2026-10-05 11:53:05.579538+0000 GeoAlarm[6925:27429] [error] CoreData: error:   750
+CoreData: error:   750
+2026-10-05 11:53:05.579584+0000 GeoAlarm[6925:27429] [error] CoreData: error:   file is not a symbolic link
+CoreData: error:   file is not a symbolic link
+2026-10-05 11:53:05.579666+0000 GeoAlarm[6925:27429] [error] CoreData: error:   Sandbox access to file-write-create allowed
+CoreData: error:   Sandbox access to file-write-create allowed
+2026-10-05 11:53:05.579737+0000 GeoAlarm[6925:27429] [error] CoreData: error: Executing as effective user 501
+CoreData: error: Executing as effective user 501
+2026-10-05 11:53:05.579788+0000 GeoAlarm[6925:27429] [error] CoreData: error: Information for /Users
+CoreData: error: Information for /Users
+2026-10-05 11:53:05.579857+0000 GeoAlarm[6925:27429] [error] CoreData: error: ---------------------------
+CoreData: error: ---------------------------
+2026-10-05 11:53:05.582318+0000 GeoAlarm[6925:27429] [error] CoreData: error:   File Device ID: 	0
+CoreData: error:   File Device ID: 	0
+2026-10-05 11:53:05.582413+0000 GeoAlarm[6925:27429] [error] CoreData: error:   Device ID: 		16777226
+CoreData: error:   Device ID: 		16777226
+2026-10-05 11:53:05.582474+0000 GeoAlarm[6925:27429] [error] CoreData: error:   File Size: 		160 bytes
+CoreData: error:   File Size: 		160 bytes
+2026-10-05 11:53:05.582531+0000 GeoAlarm[6925:27429] [error] CoreData: error:   File inode: 		18483
+CoreData: error:   File inode: 		18483
+2026-10-05 11:53:05.582582+0000 GeoAlarm[6925:27429] [error] CoreData: error:   File user ID: 		0
+CoreData: error:   File user ID: 		0
+2026-10-05 11:53:05.582630+0000 GeoAlarm[6925:27429] [error] CoreData: error:   File group ID: 		80
+CoreData: error:   File group ID: 		80
+2026-10-05 11:53:05.582679+0000 GeoAlarm[6925:27429] [error] CoreData: error:   File Permissions:
+CoreData: error:   File Permissions: 	
+2026-10-05 11:53:05.582725+0000 GeoAlarm[6925:27429] [error] CoreData: error: d
+CoreData: error: d
+2026-10-05 11:53:05.582994+0000 GeoAlarm[6925:27429] [error] CoreData: error:   755
+CoreData: error:   755
+2026-10-05 11:53:05.583049+0000 GeoAlarm[6925:27429] [error] CoreData: error:   file is not a symbolic link
+CoreData: error:   file is not a symbolic link
+2026-10-05 11:53:05.583229+0000 GeoAlarm[6925:27429] [error] CoreData: error:   Sandbox access to file-write-create allowed
+CoreData: error:   Sandbox access to file-write-create allowed
+2026-10-05 11:53:05.583320+0000 GeoAlarm[6925:27429] [error] CoreData: error: Executing as effective user 501
+CoreData: error: Executing as effective user 501
+2026-10-05 11:53:05.583374+0000 GeoAlarm[6925:27429] [error] CoreData: error: Information for /
+CoreData: error: Information for /
+2026-10-05 11:53:05.583425+0000 GeoAlarm[6925:27429] [error] CoreData: error: ---------------------------
+CoreData: error: ---------------------------
+2026-10-05 11:53:05.583468+0000 GeoAlarm[6925:27429] [error] CoreData: error:   File Device ID: 	0
+CoreData: error:   File Device ID: 	0
+2026-10-05 11:53:05.583934+0000 GeoAlarm[6925:27429] [error] CoreData: error:   Device ID: 		16777226
+CoreData: error:   Device ID: 		16777226
+2026-10-05 11:53:05.583999+0000 GeoAlarm[6925:27429] [error] CoreData: error:   File Size: 		704 bytes
+CoreData: error:   File Size: 		704 bytes
+2026-10-05 11:53:05.584054+0000 GeoAlarm[6925:27429] [error] CoreData: error:   File inode: 		2
+CoreData: error:   File inode: 		2
+2026-10-05 11:53:05.584152+0000 GeoAlarm[6925:27429] [error] CoreData: error:   File user ID: 		0
+CoreData: error:   File user ID: 		0
+2026-10-05 11:53:05.584209+0000 GeoAlarm[6925:27429] [error] CoreData: error:   File group ID: 		0
+CoreData: error:   File group ID: 		0
+2026-10-05 11:53:05.584258+0000 GeoAlarm[6925:27429] [error] CoreData: error:   File Permissions:
+CoreData: error:   File Permissions: 	
+2026-10-05 11:53:05.584307+0000 GeoAlarm[6925:27429] [error] CoreData: error: d
+CoreData: error: d
+2026-10-05 11:53:05.585035+0000 GeoAlarm[6925:27429] [error] CoreData: error:   755
+CoreData: error:   755
+2026-10-05 11:53:05.585113+0000 GeoAlarm[6925:27429] [error] CoreData: error:   file is not a symbolic link
+CoreData: error:   file is not a symbolic link
+2026-10-05 11:53:05.585274+0000 GeoAlarm[6925:27429] [error] CoreData: error:   Sandbox access to file-write-create allowed
+CoreData: error:   Sandbox access to file-write-create allowed
+2026-10-05 11:53:05.585386+0000 GeoAlarm[6925:27429] [error] CoreData: error: Logging status information for directory path: /Users/runner/Library/Developer/CoreSimulator/Devices/22452A91-4697-4369-8812-53ADB77EB73B/data/Containers/Data/Application/ED30343B-1FF2-4278-A01E-1021BBBF5AF9/Library/Application Support
+CoreData: error: Logging status information for directory path: /Users/runner/Library/Developer/CoreSimulator/Devices/22452A91-4697-4369-8812-53ADB77EB73B/data/Containers/Data/Application/ED30343B-1FF2-4278-A01E-1021BBBF5AF9/Library/Application Support
+2026-10-05 11:53:05.585461+0000 GeoAlarm[6925:27429] [error] CoreData: error: Executing as effective user 501
+CoreData: error: Executing as effective user 501
+2026-10-05 11:53:05.585915+0000 GeoAlarm[6925:27429] [error] CoreData: error: Information for /
+CoreData: error: Information for /
+2026-10-05 11:53:05.585972+0000 GeoAlarm[6925:27429] [error] CoreData: error:   File Device ID: 	0
+CoreData: error:   File Device ID: 	0
+2026-10-05 11:53:05.586018+0000 GeoAlarm[6925:27429] [error] CoreData: error:   Device ID: 		16777226
+CoreData: error:   Device ID: 		16777226
+2026-10-05 11:53:05.586065+0000 GeoAlarm[6925:27429] [error] CoreData: error:   File Size: 		704 bytes
+CoreData: error:   File Size: 		704 bytes
+2026-10-05 11:53:05.586114+0000 GeoAlarm[6925:27429] [error] CoreData: error:   File inode: 		2
+CoreData: error:   File inode: 		2
+2026-10-05 11:53:05.586161+0000 GeoAlarm[6925:27429] [error] CoreData: error:   File user ID: 		0
+CoreData: error:   File user ID: 		0
+2026-10-05 11:53:05.586209+0000 GeoAlarm[6925:27429] [error] CoreData: error:   File group ID: 		0
+CoreData: error:   File group ID: 		0
+2026-10-05 11:53:05.586572+0000 GeoAlarm[6925:27429] [error] CoreData: error:   File Permissions:
+CoreData: error:   File Permissions: 	
+2026-10-05 11:53:05.586620+0000 GeoAlarm[6925:27429] [error] CoreData: error: d
+CoreData: error: d
+2026-10-05 11:53:05.586672+0000 GeoAlarm[6925:27429] [error] CoreData: error:   755
+CoreData: error:   755
+2026-10-05 11:53:05.586719+0000 GeoAlarm[6925:27429] [error] CoreData: error:   component is not a symbolic link
+CoreData: error:   component is not a symbolic link
+2026-10-05 11:53:05.586784+0000 GeoAlarm[6925:27429] [error] CoreData: error:   component is readable
+CoreData: error:   component is readable
+2026-10-05 11:53:05.586842+0000 GeoAlarm[6925:27429] [error] CoreData: error:   component is not writeable with errno 30
+CoreData: error:   component is not writeable with errno 30
+2026-10-05 11:53:05.586905+0000 GeoAlarm[6925:27429] [error] CoreData: error: Information for /Users
+CoreData: error: Information for /Users
+2026-10-05 11:53:05.587306+0000 GeoAlarm[6925:27429] [error] CoreData: error:   File Device ID: 	0
+CoreData: error:   File Device ID: 	0
+2026-10-05 11:53:05.587362+0000 GeoAlarm[6925:27429] [error] CoreData: error:   Device ID: 		16777226
+CoreData: error:   Device ID: 		16777226
+2026-10-05 11:53:05.587414+0000 GeoAlarm[6925:27429] [error] CoreData: error:   File Size: 		160 bytes
+CoreData: error:   File Size: 		160 bytes
+2026-10-05 11:53:05.587481+0000 GeoAlarm[6925:27429] [error] CoreData: error:   File inode: 		18483
+CoreData: error:   File inode: 		18483
+2026-10-05 11:53:05.587543+0000 GeoAlarm[6925:27429] [error] CoreData: error:   File user ID: 		0
+CoreData: error:   File user ID: 		0
+2026-10-05 11:53:05.587586+0000 GeoAlarm[6925:27429] [error] CoreData: error:   File group ID: 		80
+CoreData: error:   File group ID: 		80
+2026-10-05 11:53:05.587630+0000 GeoAlarm[6925:27429] [error] CoreData: error:   File Permissions:
+CoreData: error:   File Permissions: 	
+2026-10-05 11:53:05.587789+0000 GeoAlarm[6925:27429] [error] CoreData: error: d
+CoreData: error: d
+2026-10-05 11:53:05.589143+0000 GeoAlarm[6925:27429] [error] CoreData: error:   755
+CoreData: error:   755
+2026-10-05 11:53:05.589359+0000 GeoAlarm[6925:27429] [error] CoreData: error:   component is not a symbolic link
+CoreData: error:   component is not a symbolic link
+2026-10-05 11:53:05.589563+0000 GeoAlarm[6925:27429] [error] CoreData: error:   component is readable
+CoreData: error:   component is readable
+2026-10-05 11:53:05.589647+0000 GeoAlarm[6925:27429] [error] CoreData: error:   component is not writeable with errno 13
+CoreData: error:   component is not writeable with errno 13
+2026-10-05 11:53:05.589734+0000 GeoAlarm[6925:27429] [error] CoreData: error: Information for /Users/runner
+CoreData: error: Information for /Users/runner
+2026-10-05 11:53:05.589793+0000 GeoAlarm[6925:27429] [error] CoreData: error:   File Device ID: 	0
+CoreData: error:   File Device ID: 	0
+2026-10-05 11:53:05.589863+0000 GeoAlarm[6925:27429] [error] CoreData: error:   Device ID: 		16777226
+CoreData: error:   Device ID: 		16777226
+2026-10-05 11:53:05.592397+0000 GeoAlarm[6925:27429] [error] CoreData: error:   File Size: 		1312 bytes
+CoreData: error:   File Size: 		1312 bytes
+2026-10-05 11:53:05.592495+0000 GeoAlarm[6925:27429] [error] CoreData: error:   File inode: 		35800
+CoreData: error:   File inode: 		35800
+2026-10-05 11:53:05.592571+0000 GeoAlarm[6925:27429] [error] CoreData: error:   File user ID: 		501
+CoreData: error:   File user ID: 		501
+2026-10-05 11:53:05.592623+0000 GeoAlarm[6925:27429] [error] CoreData: error:   File group ID: 		20
+CoreData: error:   File group ID: 		20
+2026-10-05 11:53:05.592709+0000 GeoAlarm[6925:27429] [error] CoreData: error:   File Permissions:
+CoreData: error:   File Permissions: 	
+2026-10-05 11:53:05.592765+0000 GeoAlarm[6925:27429] [error] CoreData: error: d
+CoreData: error: d
+2026-10-05 11:53:05.592936+0000 GeoAlarm[6925:27429] [error] CoreData: error:   750
+CoreData: error:   750
+2026-10-05 11:53:05.593047+0000 GeoAlarm[6925:27429] [error] CoreData: error:   component is not a symbolic link
+CoreData: error:   component is not a symbolic link
+2026-10-05 11:53:05.598193+0000 GeoAlarm[6925:27429] [error] CoreData: error:   component is readable
+CoreData: error:   component is readable
+2026-10-05 11:53:05.598371+0000 GeoAlarm[6925:27429] [error] CoreData: error:   component is writeable
+CoreData: error:   component is writeable
+2026-10-05 11:53:05.598477+0000 GeoAlarm[6925:27429] [error] CoreData: error: Information for /Users/runner/Library
+CoreData: error: Information for /Users/runner/Library
+2026-10-05 11:53:05.598540+0000 GeoAlarm[6925:27429] [error] CoreData: error:   File Device ID: 	0
+CoreData: error:   File Device ID: 	0
+2026-10-05 11:53:05.598603+0000 GeoAlarm[6925:27429] [error] CoreData: error:   Device ID: 		16777226
+CoreData: error:   Device ID: 		16777226
+2026-10-05 11:53:05.598710+0000 GeoAlarm[6925:27429] [error] CoreData: error:   File Size: 		2688 bytes
+CoreData: error:   File Size: 		2688 bytes
+2026-10-05 11:53:05.599502+0000 GeoAlarm[6925:27429] [error] CoreData: error:   File inode: 		35809
+CoreData: error:   File inode: 		35809
+2026-10-05 11:53:05.599571+0000 GeoAlarm[6925:27429] [error] CoreData: error:   File user ID: 		501
+CoreData: error:   File user ID: 		501
+2026-10-05 11:53:05.599620+0000 GeoAlarm[6925:27429] [error] CoreData: error:   File group ID: 		20
+CoreData: error:   File group ID: 		20
+2026-10-05 11:53:05.599667+0000 GeoAlarm[6925:27429] [error] CoreData: error:   File Permissions:
+CoreData: error:   File Permissions: 	
+2026-10-05 11:53:05.599712+0000 GeoAlarm[6925:27429] [error] CoreData: error: d
+CoreData: error: d
+2026-10-05 11:53:05.599760+0000 GeoAlarm[6925:27429] [error] CoreData: error:   700
+CoreData: error:   700
+2026-10-05 11:53:05.599919+0000 GeoAlarm[6925:27429] [error] CoreData: error:   component is not a symbolic link
+CoreData: error:   component is not a symbolic link
+2026-10-05 11:53:05.600032+0000 GeoAlarm[6925:27429] [error] CoreData: error:   component is readable
+CoreData: error:   component is readable
+2026-10-05 11:53:05.614483+0000 GeoAlarm[6925:27429] [error] CoreData: error:   component is writeable
+CoreData: error:   component is writeable
+2026-10-05 11:53:05.614599+0000 GeoAlarm[6925:27429] [error] CoreData: error: Information for /Users/runner/Library/Developer
+CoreData: error: Information for /Users/runner/Library/Developer
+2026-10-05 11:53:05.614664+0000 GeoAlarm[6925:27429] [error] CoreData: error:   File Device ID: 	0
+CoreData: error:   File Device ID: 	0
+2026-10-05 11:53:05.614714+0000 GeoAlarm[6925:27429] [error] CoreData: error:   Device ID: 		16777226
+CoreData: error:   Device ID: 		16777226
+2026-10-05 11:53:05.614761+0000 GeoAlarm[6925:27429] [error] CoreData: error:   File Size: 		160 bytes
+CoreData: error:   File Size: 		160 bytes
+2026-10-05 11:53:05.614812+0000 GeoAlarm[6925:27429] [error] CoreData: error:   File inode: 		2262946
+CoreData: error:   File inode: 		2262946
+2026-10-05 11:53:05.614881+0000 GeoAlarm[6925:27429] [error] CoreData: error:   File user ID: 		501
+CoreData: error:   File user ID: 		501
+2026-10-05 11:53:05.615781+0000 GeoAlarm[6925:27429] [error] CoreData: error:   File group ID: 		20
+CoreData: error:   File group ID: 		20
+2026-10-05 11:53:05.615897+0000 GeoAlarm[6925:27429] [error] CoreData: error:   File Permissions:
+CoreData: error:   File Permissions: 	
+2026-10-05 11:53:05.615979+0000 GeoAlarm[6925:27429] [error] CoreData: error: d
+CoreData: error: d
+2026-10-05 11:53:05.616039+0000 GeoAlarm[6925:27429] [error] CoreData: error:   755
+CoreData: error:   755
+2026-10-05 11:53:05.616154+0000 GeoAlarm[6925:27429] [error] CoreData: error:   component is not a symbolic link
+CoreData: error:   component is not a symbolic link
+2026-10-05 11:53:05.616258+0000 GeoAlarm[6925:27429] [error] CoreData: error:   component is readable
+CoreData: error:   component is readable
+2026-10-05 11:53:05.616348+0000 GeoAlarm[6925:27429] [error] CoreData: error:   component is writeable
+CoreData: error:   component is writeable
+2026-10-05 11:53:05.616630+0000 GeoAlarm[6925:27429] [error] CoreData: error: Information for /Users/runner/Library/Developer/CoreSimulator
+CoreData: error: Information for /Users/runner/Library/Developer/CoreSimulator
+2026-10-05 11:53:05.616781+0000 GeoAlarm[6925:27429] [error] CoreData: error:   File Device ID: 	0
+CoreData: error:   File Device ID: 	0
+2026-10-05 11:53:05.616844+0000 GeoAlarm[6925:27429] [error] CoreData: error:   Device ID: 		16777226
+CoreData: error:   Device ID: 		16777226
+2026-10-05 11:53:05.616893+0000 GeoAlarm[6925:27429] [error] CoreData: error:   File Size: 		160 bytes
+CoreData: error:   File Size: 		160 bytes
+2026-10-05 11:53:05.616948+0000 GeoAlarm[6925:27429] [error] CoreData: error:   File inode: 		2262957
+CoreData: error:   File inode: 		2262957
+2026-10-05 11:53:05.617039+0000 GeoAlarm[6925:27429] [error] CoreData: error:   File user ID: 		501
+CoreData: error:   File user ID: 		501
+2026-10-05 11:53:05.617110+0000 GeoAlarm[6925:27429] [error] CoreData: error:   File group ID: 		20
+CoreData: error:   File group ID: 		20
+2026-10-05 11:53:05.617745+0000 GeoAlarm[6925:27429] [error] CoreData: error:   File Permissions:
+CoreData: error:   File Permissions: 	
+2026-10-05 11:53:05.617803+0000 GeoAlarm[6925:27429] [error] CoreData: error: d
+CoreData: error: d
+2026-10-05 11:53:05.617849+0000 GeoAlarm[6925:27429] [error] CoreData: error:   755
+CoreData: error:   755
+2026-10-05 11:53:05.617903+0000 GeoAlarm[6925:27429] [error] CoreData: error:   component is not a symbolic link
+CoreData: error:   component is not a symbolic link
+2026-10-05 11:53:05.617983+0000 GeoAlarm[6925:27429] [error] CoreData: error:   component is readable
+CoreData: error:   component is readable
+2026-10-05 11:53:05.618045+0000 GeoAlarm[6925:27429] [error] CoreData: error:   component is writeable
+CoreData: error:   component is writeable
+2026-10-05 11:53:05.618120+0000 GeoAlarm[6925:27429] [error] CoreData: error: Information for /Users/runner/Library/Developer/CoreSimulator/Devices
+CoreData: error: Information for /Users/runner/Library/Developer/CoreSimulator/Devices
+2026-10-05 11:53:05.619061+0000 GeoAlarm[6925:27429] [error] CoreData: error:   File Device ID: 	0
+CoreData: error:   File Device ID: 	0
+2026-10-05 11:53:05.619240+0000 GeoAlarm[6925:27429] [error] CoreData: error:   Device ID: 		16777226
+CoreData: error:   Device ID: 		16777226
+2026-10-05 11:53:05.619316+0000 GeoAlarm[6925:27429] [error] CoreData: error:   File Size: 		2016 bytes
+CoreData: error:   File Size: 		2016 bytes
+2026-10-05 11:53:05.619376+0000 GeoAlarm[6925:27429] [error] CoreData: error:   File inode: 		2263005
+CoreData: error:   File inode: 		2263005
+2026-10-05 11:53:05.619496+0000 GeoAlarm[6925:27429] [error] CoreData: error:   File user ID: 		501
+CoreData: error:   File user ID: 		501
+2026-10-05 11:53:05.619563+0000 GeoAlarm[6925:27429] [error] CoreData: error:   File group ID: 		20
+CoreData: error:   File group ID: 		20
+2026-10-05 11:53:05.619621+0000 GeoAlarm[6925:27429] [error] CoreData: error:   File Permissions:
+CoreData: error:   File Permissions: 	
+2026-10-05 11:53:05.619836+0000 GeoAlarm[6925:27429] [error] CoreData: error: d
+CoreData: error: d
+2026-10-05 11:53:05.619892+0000 GeoAlarm[6925:27429] [error] CoreData: error:   755
+CoreData: error:   755
+2026-10-05 11:53:05.619954+0000 GeoAlarm[6925:27429] [error] CoreData: error:   component is not a symbolic link
+CoreData: error:   component is not a symbolic link
+2026-10-05 11:53:05.620052+0000 GeoAlarm[6925:27429] [error] CoreData: error:   component is readable
+CoreData: error:   component is readable
+2026-10-05 11:53:05.620126+0000 GeoAlarm[6925:27429] [error] CoreData: error:   component is writeable
+CoreData: error:   component is writeable
+2026-10-05 11:53:05.620215+0000 GeoAlarm[6925:27429] [error] CoreData: error: Information for /Users/runner/Library/Developer/CoreSimulator/Devices/22452A91-4697-4369-8812-53ADB77EB73B
+CoreData: error: Information for /Users/runner/Library/Developer/CoreSimulator/Devices/22452A91-4697-4369-8812-53ADB77EB73B
+2026-10-05 11:53:05.620282+0000 GeoAlarm[6925:27429] [error] CoreData: error:   File Device ID: 	0
+CoreData: error:   File Device ID: 	0
+2026-10-05 11:53:05.620567+0000 GeoAlarm[6925:27429] [error] CoreData: error:   Device ID: 		16777226
+CoreData: error:   Device ID: 		16777226
+2026-10-05 11:53:05.620654+0000 GeoAlarm[6925:27429] [error] CoreData: error:   File Size: 		160 bytes
+CoreData: error:   File Size: 		160 bytes
+2026-10-05 11:53:05.620704+0000 GeoAlarm[6925:27429] [error] CoreData: error:   File inode: 		2284948
+CoreData: error:   File inode: 		2284948
+2026-10-05 11:53:05.620759+0000 GeoAlarm[6925:27429] [error] CoreData: error:   File user ID: 		501
+CoreData: error:   File user ID: 		501
+2026-10-05 11:53:05.620807+0000 GeoAlarm[6925:27429] [error] CoreData: error:   File group ID: 		20
+CoreData: error:   File group ID: 		20
+2026-10-05 11:53:05.620860+0000 GeoAlarm[6925:27429] [error] CoreData: error:   File Permissions:
+CoreData: error:   File Permissions: 	
+2026-10-05 11:53:05.620919+0000 GeoAlarm[6925:27429] [error] CoreData: error: d
+CoreData: error: d
+2026-10-05 11:53:05.621402+0000 GeoAlarm[6925:27429] [error] CoreData: error:   755
+CoreData: error:   755
+2026-10-05 11:53:05.621574+0000 GeoAlarm[6925:27429] [error] CoreData: error:   component is not a symbolic link
+CoreData: error:   component is not a symbolic link
+2026-10-05 11:53:05.621799+0000 GeoAlarm[6925:27429] [error] CoreData: error:   component is readable
+CoreData: error:   component is readable
+2026-10-05 11:53:05.621960+0000 GeoAlarm[6925:27429] [error] CoreData: error:   component is writeable
+CoreData: error:   component is writeable
+2026-10-05 11:53:05.622075+0000 GeoAlarm[6925:27429] [error] CoreData: error: Information for /Users/runner/Library/Developer/CoreSimulator/Devices/22452A91-4697-4369-8812-53ADB77EB73B/data
+CoreData: error: Information for /Users/runner/Library/Developer/CoreSimulator/Devices/22452A91-4697-4369-8812-53ADB77EB73B/data
+2026-10-05 11:53:05.622143+0000 GeoAlarm[6925:27429] [error] CoreData: error:   File Device ID: 	0
+CoreData: error:   File Device ID: 	0
+2026-10-05 11:53:05.627816+0000 GeoAlarm[6925:27429] [error] CoreData: error:   Device ID: 		16777226
+CoreData: error:   Device ID: 		16777226
+2026-10-05 11:53:05.628085+0000 GeoAlarm[6925:27429] [error] CoreData: error:   File Size: 		384 bytes
+CoreData: error:   File Size: 		384 bytes
+2026-10-05 11:53:05.628237+0000 GeoAlarm[6925:27429] [error] CoreData: error:   File inode: 		2284950
+CoreData: error:   File inode: 		2284950
+2026-10-05 11:53:05.628300+0000 GeoAlarm[6925:27429] [error] CoreData: error:   File user ID: 		501
+CoreData: error:   File user ID: 		501
+2026-10-05 11:53:05.628355+0000 GeoAlarm[6925:27429] [error] CoreData: error:   File group ID: 		20
+CoreData: error:   File group ID: 		20
+2026-10-05 11:53:05.628426+0000 GeoAlarm[6925:27429] [error] CoreData: error:   File Permissions:
+CoreData: error:   File Permissions: 	
+2026-10-05 11:53:05.628481+0000 GeoAlarm[6925:27429] [error] CoreData: error: d
+CoreData: error: d
+2026-10-05 11:53:05.628536+0000 GeoAlarm[6925:27429] [error] CoreData: error:   775
+CoreData: error:   775
+2026-10-05 11:53:05.629140+0000 GeoAlarm[6925:27429] [error] CoreData: error:   component is not a symbolic link
+CoreData: error:   component is not a symbolic link
+2026-10-05 11:53:05.629391+0000 GeoAlarm[6925:27429] [error] CoreData: error:   component is readable
+CoreData: error:   component is readable
+2026-10-05 11:53:05.629566+0000 GeoAlarm[6925:27429] [error] CoreData: error:   component is writeable
+CoreData: error:   component is writeable
+2026-10-05 11:53:05.629730+0000 GeoAlarm[6925:27429] [error] CoreData: error: Information for /Users/runner/Library/Developer/CoreSimulator/Devices/22452A91-4697-4369-8812-53ADB77EB73B/data/Containers
+CoreData: error: Information for /Users/runner/Library/Developer/CoreSimulator/Devices/22452A91-4697-4369-8812-53ADB77EB73B/data/Containers
+2026-10-05 11:53:05.629816+0000 GeoAlarm[6925:27429] [error] CoreData: error:   File Device ID: 	0
+CoreData: error:   File Device ID: 	0
+2026-10-05 11:53:05.629869+0000 GeoAlarm[6925:27429] [error] CoreData: error:   Device ID: 		16777226
+CoreData: error:   Device ID: 		16777226
+2026-10-05 11:53:05.630392+0000 GeoAlarm[6925:27429] [error] CoreData: error:   File Size: 		224 bytes
+CoreData: error:   File Size: 		224 bytes
+2026-10-05 11:53:05.630456+0000 GeoAlarm[6925:27429] [error] CoreData: error:   File inode: 		2954732
+CoreData: error:   File inode: 		2954732
+2026-10-05 11:53:05.630573+0000 GeoAlarm[6925:27429] [error] CoreData: error:   File user ID: 		501
+CoreData: error:   File user ID: 		501
+2026-10-05 11:53:05.630654+0000 GeoAlarm[6925:27429] [error] CoreData: error:   File group ID: 		20
+CoreData: error:   File group ID: 		20
+2026-10-05 11:53:05.630708+0000 GeoAlarm[6925:27429] [error] CoreData: error:   File Permissions:
+CoreData: error:   File Permissions: 	
+2026-10-05 11:53:05.630755+0000 GeoAlarm[6925:27429] [error] CoreData: error: d
+CoreData: error: d
+2026-10-05 11:53:05.630845+0000 GeoAlarm[6925:27429] [error] CoreData: error:   755
+CoreData: error:   755
+2026-10-05 11:53:05.630902+0000 GeoAlarm[6925:27429] [error] CoreData: error:   component is not a symbolic link
+CoreData: error:   component is not a symbolic link
+2026-10-05 11:53:05.631306+0000 GeoAlarm[6925:27429] [error] CoreData: error:   component is readable
+CoreData: error:   component is readable
+2026-10-05 11:53:05.631397+0000 GeoAlarm[6925:27429] [error] CoreData: error:   component is writeable
+CoreData: error:   component is writeable
+2026-10-05 11:53:05.631620+0000 GeoAlarm[6925:27429] [error] CoreData: error: Information for /Users/runner/Library/Developer/CoreSimulator/Devices/22452A91-4697-4369-8812-53ADB77EB73B/data/Containers/Data
+CoreData: error: Information for /Users/runner/Library/Developer/CoreSimulator/Devices/22452A91-4697-4369-8812-53ADB77EB73B/data/Containers/Data
+2026-10-05 11:53:05.631752+0000 GeoAlarm[6925:27429] [error] CoreData: error:   File Device ID: 	0
+CoreData: error:   File Device ID: 	0
+2026-10-05 11:53:05.631820+0000 GeoAlarm[6925:27429] [error] CoreData: error:   Device ID: 		16777226
+CoreData: error:   Device ID: 		16777226
+2026-10-05 11:53:05.633068+0000 GeoAlarm[6925:27429] [error] CoreData: error:   File Size: 		192 bytes
+CoreData: error:   File Size: 		192 bytes
+2026-10-05 11:53:05.633269+0000 GeoAlarm[6925:27429] [error] CoreData: error:   File inode: 		2954748
+CoreData: error:   File inode: 		2954748
+2026-10-05 11:53:05.633393+0000 GeoAlarm[6925:27429] [error] CoreData: error:   File user ID: 		501
+CoreData: error:   File user ID: 		501
+2026-10-05 11:53:05.633445+0000 GeoAlarm[6925:27429] [error] CoreData: error:   File group ID: 		20
+CoreData: error:   File group ID: 		20
+2026-10-05 11:53:05.633500+0000 GeoAlarm[6925:27429] [error] CoreData: error:   File Permissions:
+CoreData: error:   File Permissions: 	
+2026-10-05 11:53:05.633552+0000 GeoAlarm[6925:27429] [error] CoreData: error: d
+CoreData: error: d
+2026-10-05 11:53:05.633604+0000 GeoAlarm[6925:27429] [error] CoreData: error:   755
+CoreData: error:   755
+2026-10-05 11:53:05.633654+0000 GeoAlarm[6925:27429] [error] CoreData: error:   component is not a symbolic link
+CoreData: error:   component is not a symbolic link
+2026-10-05 11:53:05.640433+0000 GeoAlarm[6925:27429] [error] CoreData: error:   component is readable
+CoreData: error:   component is readable
+2026-10-05 11:53:05.640557+0000 GeoAlarm[6925:27429] [error] CoreData: error:   component is writeable
+CoreData: error:   component is writeable
+2026-10-05 11:53:05.640644+0000 GeoAlarm[6925:27429] [error] CoreData: error: Information for /Users/runner/Library/Developer/CoreSimulator/Devices/22452A91-4697-4369-8812-53ADB77EB73B/data/Containers/Data/Application
+CoreData: error: Information for /Users/runner/Library/Developer/CoreSimulator/Devices/22452A91-4697-4369-8812-53ADB77EB73B/data/Containers/Data/Application
+2026-10-05 11:53:05.640710+0000 GeoAlarm[6925:27429] [error] CoreData: error:   File Device ID: 	0
+CoreData: error:   File Device ID: 	0
+2026-10-05 11:53:05.640766+0000 GeoAlarm[6925:27429] [error] CoreData: error:   Device ID: 		16777226
+CoreData: error:   Device ID: 		16777226
+2026-10-05 11:53:05.640823+0000 GeoAlarm[6925:27429] [error] CoreData: error:   File Size: 		4768 bytes
+CoreData: error:   File Size: 		4768 bytes
+2026-10-05 11:53:05.641721+0000 GeoAlarm[6925:27429] [error] CoreData: error:   File inode: 		2954915
+CoreData: error:   File inode: 		2954915
+2026-10-05 11:53:05.641777+0000 GeoAlarm[6925:27429] [error] CoreData: error:   File user ID: 		501
+CoreData: error:   File user ID: 		501
+2026-10-05 11:53:05.641955+0000 GeoAlarm[6925:27429] [error] CoreData: error:   File group ID: 		20
+CoreData: error:   File group ID: 		20
+2026-10-05 11:53:05.642040+0000 GeoAlarm[6925:27429] [error] CoreData: error:   File Permissions:
+CoreData: error:   File Permissions: 	
+2026-10-05 11:53:05.642086+0000 GeoAlarm[6925:27429] [error] CoreData: error: d
+CoreData: error: d
+2026-10-05 11:53:05.642181+0000 GeoAlarm[6925:27429] [error] CoreData: error:   755
+CoreData: error:   755
+2026-10-05 11:53:05.642253+0000 GeoAlarm[6925:27429] [error] CoreData: error:   component is not a symbolic link
+CoreData: error:   component is not a symbolic link
+2026-10-05 11:53:05.643093+0000 GeoAlarm[6925:27429] [error] CoreData: error:   component is readable
+CoreData: error:   component is readable
+2026-10-05 11:53:05.643209+0000 GeoAlarm[6925:27429] [error] CoreData: error:   component is writeable
+CoreData: error:   component is writeable
+2026-10-05 11:53:05.643293+0000 GeoAlarm[6925:27429] [error] CoreData: error: Information for /Users/runner/Library/Developer/CoreSimulator/Devices/22452A91-4697-4369-8812-53ADB77EB73B/data/Containers/Data/Application/ED30343B-1FF2-4278-A01E-1021BBBF5AF9
+CoreData: error: Information for /Users/runner/Library/Developer/CoreSimulator/Devices/22452A91-4697-4369-8812-53ADB77EB73B/data/Containers/Data/Application/ED30343B-1FF2-4278-A01E-1021BBBF5AF9
+2026-10-05 11:53:05.643376+0000 GeoAlarm[6925:27429] [error] CoreData: error:   File Device ID: 	0
+CoreData: error:   File Device ID: 	0
+2026-10-05 11:53:05.643428+0000 GeoAlarm[6925:27429] [error] CoreData: error:   Device ID: 		16777226
+CoreData: error:   Device ID: 		16777226
+2026-10-05 11:53:05.653680+0000 GeoAlarm[6925:27429] [error] CoreData: error:   File Size: 		224 bytes
+CoreData: error:   File Size: 		224 bytes
+2026-10-05 11:53:05.653812+0000 GeoAlarm[6925:27429] [error] CoreData: error:   File inode: 		2964826
+CoreData: error:   File inode: 		2964826
+2026-10-05 11:53:05.653894+0000 GeoAlarm[6925:27429] [error] CoreData: error:   File user ID: 		501
+CoreData: error:   File user ID: 		501
+2026-10-05 11:53:05.653950+0000 GeoAlarm[6925:27429] [error] CoreData: error:   File group ID: 		20
+CoreData: error:   File group ID: 		20
+2026-10-05 11:53:05.654000+0000 GeoAlarm[6925:27429] [error] CoreData: error:   File Permissions:
+CoreData: error:   File Permissions: 	
+2026-10-05 11:53:05.654047+0000 GeoAlarm[6925:27429] [error] CoreData: error: d
+CoreData: error: d
+2026-10-05 11:53:05.654093+0000 GeoAlarm[6925:27429] [error] CoreData: error:   755
+CoreData: error:   755
+2026-10-05 11:53:05.654137+0000 GeoAlarm[6925:27429] [error] CoreData: error:   component is not a symbolic link
+CoreData: error:   component is not a symbolic link
+2026-10-05 11:53:05.656685+0000 GeoAlarm[6925:27429] [error] CoreData: error:   component is readable
+CoreData: error:   component is readable
+2026-10-05 11:53:05.656791+0000 GeoAlarm[6925:27429] [error] CoreData: error:   component is writeable
+CoreData: error:   component is writeable
+2026-10-05 11:53:05.656876+0000 GeoAlarm[6925:27429] [error] CoreData: error: Information for /Users/runner/Library/Developer/CoreSimulator/Devices/22452A91-4697-4369-8812-53ADB77EB73B/data/Containers/Data/Application/ED30343B-1FF2-4278-A01E-1021BBBF5AF9/Library
+CoreData: error: Information for /Users/runner/Library/Developer/CoreSimulator/Devices/22452A91-4697-4369-8812-53ADB77EB73B/data/Containers/Data/Application/ED30343B-1FF2-4278-A01E-1021BBBF5AF9/Library
+2026-10-05 11:53:05.656938+0000 GeoAlarm[6925:27429] [error] CoreData: error:   File Device ID: 	0
+CoreData: error:   File Device ID: 	0
+2026-10-05 11:53:05.657096+0000 GeoAlarm[6925:27429] [error] CoreData: error:   Device ID: 		16777226
+CoreData: error:   Device ID: 		16777226
+2026-10-05 11:53:05.657436+0000 GeoAlarm[6925:27429] [error] CoreData: error:   File Size: 		128 bytes
+CoreData: error:   File Size: 		128 bytes
+2026-10-05 11:53:05.657497+0000 GeoAlarm[6925:27429] [error] CoreData: error:   File inode: 		2964828
+CoreData: error:   File inode: 		2964828
+2026-10-05 11:53:05.657548+0000 GeoAlarm[6925:27429] [error] CoreData: error:   File user ID: 		501
+CoreData: error:   File user ID: 		501
+2026-10-05 11:53:05.657710+0000 GeoAlarm[6925:27429] [error] CoreData: error:   File group ID: 		20
+CoreData: error:   File group ID: 		20
+2026-10-05 11:53:05.657800+0000 GeoAlarm[6925:27429] [error] CoreData: error:   File Permissions:
+CoreData: error:   File Permissions: 	
+2026-10-05 11:53:05.657898+0000 GeoAlarm[6925:27429] [error] CoreData: error: d
+CoreData: error: d
+2026-10-05 11:53:05.657981+0000 GeoAlarm[6925:27429] [error] CoreData: error:   755
+CoreData: error:   755
+2026-10-05 11:53:05.658032+0000 GeoAlarm[6925:27429] [error] CoreData: error:   component is not a symbolic link
+CoreData: error:   component is not a symbolic link
+2026-10-05 11:53:05.658513+0000 GeoAlarm[6925:27429] [error] CoreData: error:   component is readable
+CoreData: error:   component is readable
+2026-10-05 11:53:05.658588+0000 GeoAlarm[6925:27429] [error] CoreData: error:   component is writeable
+CoreData: error:   component is writeable
+2026-10-05 11:53:05.658668+0000 GeoAlarm[6925:27429] [error] CoreData: error: Failed to stat path '/Users/runner/Library/Developer/CoreSimulator/Devices/22452A91-4697-4369-8812-53ADB77EB73B/data/Containers/Data/Application/ED30343B-1FF2-4278-A01E-1021BBBF5AF9/Library/Application Support', errno 2 / No such file or directory.
+CoreData: error: Failed to stat path '/Users/runner/Library/Developer/CoreSimulator/Devices/22452A91-4697-4369-8812-53ADB77EB73B/data/Containers/Data/Application/ED30343B-1FF2-4278-A01E-1021BBBF5AF9/Library/Application Support', errno 2 / No such file or directory.
+2026-10-05 11:53:05.659241+0000 GeoAlarm[6925:27429] [error] CoreData: error:   Sandbox access to file-write-create denied
+CoreData: error:   Sandbox access to file-write-create denied
+2026-10-05 11:53:05.660141+0000 GeoAlarm[6925:27429] [error] CoreData: error: addPersistentStoreWithType:configuration:URL:options:error: returned error NSCocoaErrorDomain (512)
+CoreData: error: addPersistentStoreWithType:configuration:URL:options:error: returned error NSCocoaErrorDomain (512)
+2026-10-05 11:53:05.660313+0000 GeoAlarm[6925:27429] [error] CoreData: error: userInfo:
+CoreData: error: userInfo:
+2026-10-05 11:53:05.660401+0000 GeoAlarm[6925:27429] [error] CoreData: error: 	reason : Failed to create file; code = 2
+CoreData: error: 	reason : Failed to create file; code = 2
+2026-10-05 11:53:05.660459+0000 GeoAlarm[6925:27429] [error] CoreData: error: storeType: SQLite
+CoreData: error: storeType: SQLite
+2026-10-05 11:53:05.660529+0000 GeoAlarm[6925:27429] [error] CoreData: error: configuration: default
+CoreData: error: configuration: default
+2026-10-05 11:53:05.660614+0000 GeoAlarm[6925:27429] [error] CoreData: error: URL: file:///Users/runner/Library/Developer/CoreSimulator/Devices/22452A91-4697-4369-8812-53ADB77EB73B/data/Containers/Data/Application/ED30343B-1FF2-4278-A01E-1021BBBF5AF9/Library/Application%20Support/default.store
+CoreData: error: URL: file:///Users/runner/Library/Developer/CoreSimulator/Devices/22452A91-4697-4369-8812-53ADB77EB73B/data/Containers/Data/Application/ED30343B-1FF2-4278-A01E-1021BBBF5AF9/Library/Application%20Support/default.store
+2026-10-05 11:53:05.663381+0000 GeoAlarm[6925:27429] [error] CoreData: error: <NSPersistentStoreCoordinator: 0x1048ea780>: Attempting recovery from error encountered during addPersistentStore: 0x104868570 Error Domain=NSCocoaErrorDomain Code=512 "The file couldn’t be saved." UserInfo={reason=Failed to create file; code = 2}
+CoreData: error: <NSPersistentStoreCoordinator: 0x1048ea780>: Attempting recovery from error encountered during addPersistentStore: 0x104868570 Error Domain=NSCocoaErrorDomain Code=512 "The file couldn’t be saved." UserInfo={reason=Failed to create file; code = 2}
+2026-10-05 11:53:05.663716+0000 GeoAlarm[6925:27429] [error] CoreData: error: During recovery, parent directory path reported as missing
+CoreData: error: During recovery, parent directory path reported as missing
+2026-10-05 11:53:05.674770+0000 GeoAlarm[6925:27429] [error] CoreData: error: Recovery attempt while adding <NSPersistentStoreDescription: 0x104868570> (type: SQLite, url: file:///Users/runner/Library/Developer/CoreSimulator/Devices/22452A91-4697-4369-8812-53ADB77EB73B/data/Containers/Data/Application/ED30343B-1FF2-4278-A01E-1021BBBF5AF9/Library/Application%20Support/default.store) was successful!
+CoreData: error: Recovery attempt while adding <NSPersistentStoreDescription: 0x104868570> (type: SQLite, url: file:///Users/runner/Library/Developer/CoreSimulator/Devices/22452A91-4697-4369-8812-53ADB77EB73B/data/Containers/Data/Application/ED30343B-1FF2-4278-A01E-1021BBBF5AF9/Library/Application%20Support/default.store) was successful!
+Test Case '-[GeoAlarmTests.GeoAlarmTests testDisplayTitleFallback]' passed (0.004 seconds).
+Test Case '-[GeoAlarmTests.GeoAlarmTests testDistanceSnoozeRingsAgainOnlyWhenClose]' passed (0.002 seconds).
+Test Case '-[GeoAlarmTests.GeoAlarmTests testEffectiveRadiusIsClamped]' passed (0.002 seconds).
+Test Case '-[GeoAlarmTests.GeoAlarmTests testIsActiveHonorsDaysAndMasterSwitch]' passed (0.002 seconds).
+Test Case '-[GeoAlarmTests.GeoAlarmTests testRegionSelectorIgnoresDisabledAlarms]' passed (0.001 seconds).
+Test Case '-[GeoAlarmTests.GeoAlarmTests testRegionSelectorKeepsEverythingUnderLimit]' passed (0.001 seconds).
+Test Case '-[GeoAlarmTests.GeoAlarmTests testRegionSelectorPicksNearestTwenty]' passed (0.002 seconds).
+Test Case '-[GeoAlarmTests.GeoAlarmTests testRegionSelectorRespectsCustomLimit]' passed (0.002 seconds).
+Test Case '-[GeoAlarmTests.GeoAlarmTests testRegionSelectorUsesDistanceToEdgeNotCenter]' passed (0.003 seconds).
+Test Case '-[GeoAlarmTests.GeoAlarmTests testShouldFireIsFalseOnInactiveDay]' passed (0.001 seconds).
+Test Case '-[GeoAlarmTests.GeoAlarmTests testShouldFireRequiresMatchingTransition]' passed (0.001 seconds).
+Test Case '-[GeoAlarmTests.GeoAlarmTests testSoundReferenceRoundTrip]' passed (0.001 seconds).
+Test Case '-[GeoAlarmTests.GeoAlarmTests testWeekdayFromDate]' passed (0.001 seconds).
+	 Executed 13 tests, with 0 failures (0 unexpected) in 0.022 (0.167) seconds
+Test Case '-[GeoAlarmTests.GeoTests testCoordinateValidity]' passed (0.001 seconds).
+Test Case '-[GeoAlarmTests.GeoTests testDistanceToSelfIsZero]' passed (0.158 seconds).
+Test Case '-[GeoAlarmTests.GeoTests testFormatDistance]' passed (0.001 seconds).
+Test Case '-[GeoAlarmTests.GeoTests testIsWithinRadius]' passed (0.001 seconds).
+Test Case '-[GeoAlarmTests.GeoTests testOneDegreeOfLatitudeIsAbout111Km]' passed (0.002 seconds).
+Test Case '-[GeoAlarmTests.GeoTests testSaoPauloToRioIsAbout357Km]' passed (0.002 seconds).
+	 Executed 6 tests, with 0 failures (0 unexpected) in 0.164 (0.167) seconds
+Test Case '-[GeoAlarmTests.RepositoryTests testDeleteRemovesAlarm]' passed (0.059 seconds).
+Test Case '-[GeoAlarmTests.RepositoryTests testSaveAndLoadPreservesEveryField]' passed (0.005 seconds).
+Test Case '-[GeoAlarmTests.RepositoryTests testSaveTwiceUpdatesInsteadOfDuplicating]' passed (0.011 seconds).
+Test Case '-[GeoAlarmTests.RepositoryTests testSetEnabled]' passed (0.006 seconds).
+	 Executed 4 tests, with 0 failures (0 unexpected) in 0.081 (0.118) seconds
+Test Case '-[GeoAlarmTests.SettingsRepositoryTests testPersistsThemeAndAccent]' passed (0.005 seconds).
+Test Case '-[GeoAlarmTests.SmokeTests testPipelineRuns]' passed (0.001 seconds).
+Test Case '-[GeoAlarmTests.VibrationTimelineTests testContinuousTiming]' passed (0.002 seconds).
+Test Case '-[GeoAlarmTests.VibrationTimelineTests testEveryPatternStartsWithVibrationAndHasPause]' passed (0.001 seconds).
+Test Case '-[GeoAlarmTests.VibrationTimelineTests testNoneHasNoSegments]' passed (0.010 seconds).
+Test Case '-[GeoAlarmTests.VibrationTimelineTests testSosHasNineVibrations]' passed (0.001 seconds).
+	 Executed 4 tests, with 0 failures (0 unexpected) in 0.014 (0.016) seconds
+	 Executed 29 tests, with 0 failures (0 unexpected) in 0.287 (0.482) seconds
+	 Executed 29 tests, with 0 failures (0 unexpected) in 0.287 (0.485) seconds
+** TEST SUCCEEDED **
